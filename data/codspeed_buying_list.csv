@@ -1,0 +1,892 @@
+repo,owner,org_name,commercial_confidence,confidence_reason,bench_in_ci,language,stars,signals,last_push,website,org_location,contributor_employers,org_desc,url,score
+denoland/deno,denoland,Deno,high,known company,yes,Rust,108722,bench-in-ci,2026-10-20,https://deno.land,,cloudflare; denoland,Uncomplicate JavaScript,https://github.com/denoland/deno,100
+semantica-agi/semantica,semantica-agi,Semantica ,high,commercial language,yes,Python,14161,bench-in-ci,2026-10-21,https://getsemantica.ai/,,Semantica; Semantica-AGI,Semantic Infrastructure for Enterprise AI ,https://github.com/semantica-agi/semantica,100
+mirumee/ariadne,mirumee,Mirumee Labs,high,known company,yes,Python,2345,bench-in-ci,2026-10-07,https://mirumee.com,Wrocław,Mobile Vikings,We develop API-first software and scalable architectures for the most demanding markets.,https://github.com/mirumee/ariadne,97.1
+Instagram/LibCST,Instagram,Instagram,high,known company,yes,Python,1962,bench-in-ci,2026-08-11,https://www.instagram.com/,"San Francisco, CA",astral-sh,,https://github.com/Instagram/LibCST,96.2
+zama-ai/tfhe-rs,zama-ai,Zama,high,known company,yes,Rust,1675,bench-in-ci,2026-10-20,https://zama.org,Paris,zama-ai,Zama is an open source cryptography company building state-of-the-art FHE solutions for blockchain and AI.,https://github.com/zama-ai/tfhe-rs,95.5
+pixeltable/pixeltable,pixeltable,Pixeltable,high,known company,yes,Python,1639,bench-in-ci,2026-10-21,https://pixeltable.com/,United States of America,,"Data, models, and orchestration in a unified declarative interface.",https://github.com/pixeltable/pixeltable,95.4
+foxglove/mcap,foxglove,Foxglove,high,known company,yes,Rust,1118,bench-in-ci,2026-10-20,https://foxglove.dev,,foxglove; CEO @foxglove,Accelerate your robotics development,https://github.com/foxglove/mcap,93.5
+Nixtla/hierarchicalforecast,Nixtla,Nixtla,high,known company,yes,Python,763,bench-in-ci,2026-10-19,www.nixtla.io,United States of America,Nixtla,Open Source Time Series Ecosystem,https://github.com/Nixtla/hierarchicalforecast,91.7
+oxy-hq/oxygen,oxy-hq,Oxygen Intelligence,high,commercial language,yes,Rust,203,bench-in-ci,2026-10-21,oxygen-hq.com,United States of America,oxy-hq,Oxygen Intelligence is an applied research company that builds intelligent data systems.,https://github.com/oxy-hq/oxygen,85.4
+cisco-ai-defense/pickle-fuzzer,cisco-ai-defense,Cisco AI Defense,high,known company,yes,Rust,17,bench-in-ci,2026-10-14,https://cisco-ai-defense.github.io/,,,Open Source projects for the Cisco AI Defense community,https://github.com/cisco-ai-defense/pickle-fuzzer,73.5
+lightonai/fastkmeans-rs,lightonai,LightOn,high,commercial language,yes,Rust,17,bench-in-ci,2026-06-29,http://www.lighton.ai,"Paris, France",LightOn,Rethink AI for the Enterprise​,https://github.com/lightonai/fastkmeans-rs,73.5
+NVIDIA/physicsnemo-serve,NVIDIA,NVIDIA Corporation,high,known company,yes,Python,7,bench-in-ci,2026-10-13,https://nvidia.com,"2788 San Tomas Expressway, Santa Clara, CA, 95051",NVIDIA,,https://github.com/NVIDIA/physicsnemo-serve,69.3
+button-inc/batten,button-inc,Button Inc.,high,commercial language,yes,Rust,1,bench-in-ci,2026-10-21,https://button.is,,button-inc; anthropics,,https://github.com/button-inc/batten,60.0
+khulnasoft/nextshell,khulnasoft,KhulnaSoft Ltd.,high,commercial language,yes,Rust,0,bench-in-ci,2026-05-30,https://khulnasoft.com,Bangladesh,khulnasoft,Open source projects and samples from KhulnaSoft,https://github.com/khulnasoft/nextshell,60.0
+khulnasoft/UniSynth,khulnasoft,KhulnaSoft Ltd.,high,commercial language,yes,TypeScript,0,bench-in-ci,2026-05-30,https://khulnasoft.com,Bangladesh,khulnasoft,Open source projects and samples from KhulnaSoft,https://github.com/khulnasoft/UniSynth,55.0
+databendlabs/databend,databendlabs,Databend Labs,high,known company,no,Rust,9472,divan,2026-10-21,https://databend.com/,,DatabendLabs; datafuselabs,Redefining what's possible with data + AI,https://github.com/databendlabs/databend,80
+tracel-ai/burn,tracel-ai,Tracel AI,high,known company,no,Rust,16142,divan,2026-10-21,https://tracel.ai,Canada,,High-performance computing to bring intelligence everywhere,https://github.com/tracel-ai/burn,80
+napi-rs/napi-rs,napi-rs,Node-API (N-API) for Rust,high,known company,no,Rust,7983,tinybench,2026-10-21,https://napi.rs,Singapore,voidzero-dev @cloudflare @napi-rs @rolldown,High-level and typesafe Node.js Node-API (N-API) bindings for Rust,https://github.com/napi-rs/napi-rs,80
+oven-sh/bun,oven-sh,Bun,high,known company,no,Rust,96327,mitata,2026-10-21,https://bun.com/,United States of America,oven-sh; anthropics,"The company behind Bun, the incredibly fast JavaScript runtime, bundler, transpiler and package manager.",https://github.com/oven-sh/bun,80
+microsoft/react-native-windows,microsoft,Microsoft,high,known company,no,C++,17361,tinybench,2026-10-21,https://opensource.microsoft.com,"Redmond, WA",Meta,Open source projects and samples from Microsoft,https://github.com/microsoft/react-native-windows,75
+vercel/satori,vercel,Vercel,high,known company,no,TypeScript,14114,mitata,2026-10-20,https://vercel.com,,Vercel,Agentic infrastructure for every app and agent.,https://github.com/vercel/satori,75
+pierrecomputer/pierre,pierrecomputer,The Pierre Computer Company,high,commercial language,no,TypeScript,6288,mitata,2026-10-21,https://pierre.computer,,"Pierre, Discord, Kiip, EightBit.Me, En Masse; Stripe; pierredotco",,https://github.com/pierrecomputer/pierre,75
+napi-rs/node-rs,napi-rs,Node-API (N-API) for Rust,high,known company,no,Rust,1480,tinybench,2026-10-20,https://napi.rs,Singapore,voidzero-dev @cloudflare @napi-rs @rolldown,High-level and typesafe Node.js Node-API (N-API) bindings for Rust,https://github.com/napi-rs/node-rs,74.9
+rocicorp/mono,rocicorp,Rocicorp,high,known company,no,TypeScript,3417,mitata,2026-10-20,,,rocicorp,,https://github.com/rocicorp/mono,73.9
+DataDog/integrations-core,DataDog,"Datadog, Inc.",high,known company,no,Python,1150,pytest-benchmark,2026-10-21,https://datadoghq.com,New York,datadog; DataDog; Datadog,,https://github.com/DataDog/integrations-core,73.7
+heroui-inc/tailwind-variants,heroui-inc,HeroUI,high,commercial language,no,TypeScript,3319,tinybench,2026-10-13,https://heroui.com,Global,heroui; Ramp,Building the future of UI for web & mobile. 🚀  (YC S24),https://github.com/heroui-inc/tailwind-variants,73.7
+facebook/opaque-ke,facebook,Meta,high,known company,no,Rust,424,criterion,2026-06-23,https://opensource.fb.com,"Menlo Park, California",Facebook; 4DE3 AD16 FA0A 584B 3C8D  C054 3ACB 4CB1 5EA2 FFD6,We are working to build community through open source technology. NB: members must have two-factor auth.,https://github.com/facebook/opaque-ke,68.9
+theexperiencecompany/gaia,theexperiencecompany,Experience Inc.,high,commercial language,no,Python,313,tinybench,2026-10-21,experience.heygaia.io,,theexperiencecompany,making a better world for humanity,https://github.com/theexperiencecompany/gaia,67.5
+nearform/fast-jwt,nearform,Nearform,high,known company,no,JavaScript,437,mitata,2026-10-16,http://www.nearform.com/,Ireland,Nearform,,https://github.com/nearform/fast-jwt,64.0
+napi-rs/package-template,napi-rs,Node-API (N-API) for Rust,high,known company,no,TypeScript,372,tinybench,2026-10-21,https://napi.rs,Singapore,voidzero-dev @cloudflare @napi-rs @rolldown,High-level and typesafe Node.js Node-API (N-API) bindings for Rust,https://github.com/napi-rs/package-template,63.3
+microsoft/vscode-prompt-tsx,microsoft,Microsoft,high,known company,no,TypeScript,285,tinybench,2026-10-19,https://opensource.microsoft.com,"Redmond, WA",Meta,Open source projects and samples from Microsoft,https://github.com/microsoft/vscode-prompt-tsx,62.0
+denoland/monch,denoland,Deno,high,known company,no,Rust,83,divan,2026-04-28,https://deno.land,,cloudflare; denoland,Uncomplicate JavaScript,https://github.com/denoland/monch,61.1
+brave-intl/challenge-bypass-ristretto,brave-intl,"Brave Software International, Inc.",high,commercial language,no,Rust,42,criterion,2026-10-20,,,evq-org,,https://github.com/brave-intl/challenge-bypass-ristretto,57.9
+emotechlab/silero-rs,emotechlab,,high,commercial language,no,Rust,27,divan,2026-08-24,,,Emotech,"Emotech is an award winning AI startup, seeking to redefine the relationship between humans and technology.  h",https://github.com/emotechlab/silero-rs,55.7
+oxidecomputer/ingot,oxidecomputer,Oxide Computer Company,high,commercial language,no,Rust,13,criterion,2026-08-31,https://oxide.computer,"Emeryville, California",oxidecomputer,Own Your Cloud,https://github.com/oxidecomputer/ingot,52.3
+SaaSy-Solutions/mockforge,SaaSy-Solutions,Saasy Solutions LLC,high,commercial language,no,Rust,12,criterion,2026-10-21,https://saasysolutionsllc.com,United States of America,,,https://github.com/SaaSy-Solutions/mockforge,51.9
+denoland/deno_semver,denoland,Deno,high,known company,no,Rust,12,divan,2026-06-09,https://deno.land,,cloudflare; denoland,Uncomplicate JavaScript,https://github.com/denoland/deno_semver,51.9
+postmanlabs/postman-url-encoder,postmanlabs,Postman Inc.,high,commercial language,no,JavaScript,23,benchmark.js,2026-09-18,https://www.postman.com/,United States of America,postmanlabs,An API platform for building and using APIs,https://github.com/postmanlabs/postman-url-encoder,50.0
+gufolabs/gufo_thor,gufolabs,Gufo Labs,high,commercial language,no,Python,5,pytest-benchmark,2026-10-16,https://gufolabs.com/,Italy,Gufo Labs,"Gufo Labs is a private consulting company based in Milan, Italy.",https://github.com/gufolabs/gufo_thor,47.7
+elastic/elastic-transport-js,elastic,elastic,high,known company,no,TypeScript,8,mitata,2026-10-02,https://www.elastic.co/,,elastic,,https://github.com/elastic/elastic-transport-js,44.9
+Shopify/treewalker,Shopify,Shopify,high,known company,no,Python,2,divan,2026-10-16,https://shopify.engineering/,The Internet,,,https://github.com/Shopify/treewalker,43.3
+ciphertechsolutions/malstruct,ciphertechsolutions,"Cipher Tech Solutions, Inc.",high,commercial language,no,Python,2,pytest-benchmark,2026-08-03,https://www.CipherTechSolutions.com,United States of America,Sweet Security,Critical Missions. Custom Solutions. Optimized Digital Forensics.,https://github.com/ciphertechsolutions/malstruct,43.3
+GetBusbar/busbar-hook-webrequest,GetBusbar,"Busbar, Inc.",high,commercial language,no,Rust,0,criterion,2026-10-20,https://getbusbar.com/,United States of America,,,https://github.com/GetBusbar/busbar-hook-webrequest,40.0
+ai-dynamo/dynamo,ai-dynamo,Dynamo,medium,contributor employers: NVIDIA,yes,Rust,8345,bench-in-ci,2026-10-21,https://developer.nvidia.com/dynamo,United States of America,NVIDIA,,https://github.com/ai-dynamo/dynamo,100
+feast-dev/feast,feast-dev,Feast,medium,"contributor employers: ClericHQ; Baseten; tecton-ai , @feast-de",yes,Python,7339,bench-in-ci,2026-10-19,feast.dev,,"ClericHQ; Baseten; tecton-ai , @feast-dev",The Open Source Feature Store for AI/ML,https://github.com/feast-dev/feast,100
+gosub-io/gosub-engine,gosub-io,Gosub - A web browser engine project,medium,contributor employers: NoxLogic,yes,Rust,3685,bench-in-ci,2026-10-20,https://gosub.io,,NoxLogic,Just another browser in the works,https://github.com/gosub-io/gosub-engine,99.2
+cocotb/cocotb,cocotb,,medium,contributor employers: Hudson River Trading; Potential Ventures,yes,Python,2549,bench-in-ci,2026-10-20,https://www.cocotb.org,,Hudson River Trading; Potential Ventures,,https://github.com/cocotb/cocotb,97.5
+Mathics3/mathics-core,Mathics3,Mathics3,medium,contributor employers: CONICET/UNLP,yes,Python,1218,bench-in-ci,2026-10-20,https://mathics.org,,CONICET/UNLP,,https://github.com/Mathics3/mathics-core,93.9
+CelestoAI/celesto,CelestoAI,Celesto AI,medium,contributor employers: CelestoAI Ex-@Lightning-AI; Celesto AI I,yes,Python,1045,bench-in-ci,2026-10-20,https://celesto.ai,United States of America,CelestoAI Ex-@Lightning-AI; Celesto AI Inc,"Secure, persistent computer for AI agents",https://github.com/CelestoAI/celesto,93.2
+pytorch/tensordict,pytorch,,medium,contributor employers: NVIDIA; Ineffable,yes,Python,1041,bench-in-ci,2026-10-21,https://pytorch.org,where the eigens are valued,NVIDIA; Ineffable,,https://github.com/pytorch/tensordict,93.2
+ubugeeei-prod/vize,ubugeeei-prod,ubugeeei-prod,medium,"contributor employers: vuejs core team, https://viteplus.dev/ c",yes,Rust,909,bench-in-ci,2026-10-21,,,"vuejs core team, https://viteplus.dev/ core team, @vuejs-jp core staff, @MatesEngineer chi",A GitHub organization for @ubugeeei projects that are production-ready or aiming to become production-ready.,https://github.com/ubugeeei-prod/vize,92.5
+libtcod/python-tcod,libtcod,,medium,contributor employers: PRAVIEL,yes,Python,480,bench-in-ci,2026-10-17,,,PRAVIEL,,https://github.com/libtcod/python-tcod,89.5
+databrickslabs/dqx,databrickslabs,Databricks Labs,medium,contributor employers: Databricks,yes,Python,473,bench-in-ci,2026-10-21,https://databricks.com/learn/labs,,Databricks,Labs projects to accelerate use cases on the Databricks Unified Analytics Platform,https://github.com/databrickslabs/dqx,89.4
+histolab/histolab,histolab,histolab,medium,contributor employers: YouGov / Crunch.io; lumicks,yes,Python,467,bench-in-ci,2026-10-19,,,YouGov / Crunch.io; lumicks,,https://github.com/histolab/histolab,89.4
+CS-SI/eodag,CS-SI,CS GROUP,medium,contributor employers: CS-SI,yes,Python,438,bench-in-ci,2026-10-20,https://cs-soprasteria.com/en/,France,CS-SI,"CS GROUP's contributions to Open Source Software (old, please visit https://github.com/csgroup-oss)",https://github.com/CS-SI/eodag,89.1
+benchmark-action/github-action-benchmark,benchmark-action,Continuous Benchmarking on GitHub Actions,medium,"contributor employers: #""><img src=X onerror=alert('👋🐶');>",yes,TypeScript,1265,bench-in-ci,2026-09-15,https://github.com/marketplace/actions/continuous-benchmark,Poland,"#""><img src=X onerror=alert('👋🐶');>",,https://github.com/benchmark-action/github-action-benchmark,89.1
+openvm-org/openvm,openvm-org,OpenVM,medium,commercial TLD,yes,Rust,397,bench-in-ci,2026-10-16,https://openvm.dev,,,,https://github.com/openvm-org/openvm,88.6
+NatLabRockies/floris,NatLabRockies,National Laboratory of the Rockies,medium,contributor employers: NREL; National Renewable Energy Lab,yes,Python,303,bench-in-ci,2026-10-19,https://www.nlr.gov/,"Golden, CO",NREL; National Renewable Energy Lab,,https://github.com/NatLabRockies/floris,87.3
+dfinity/candid,dfinity,DFINITY,medium,contributor employers: Lean FRO; DFINITY,yes,Rust,301,bench-in-ci,2026-10-21,https://dfinity.org,Switzerland,Lean FRO; DFINITY,The Internet Computer aims to reinvent the internet as a computer to host secure software and a new breed of o,https://github.com/dfinity/candid,87.3
+AequilibraE/aequilibrae,AequilibraE,AequilibraE,medium,contributor employers: outerl,yes,Python,221,bench-in-ci,2026-10-20,,Australia,outerl,Open Source software for transportation modeling,https://github.com/AequilibraE/aequilibrae,85.8
+Quandela/Perceval,Quandela,Quandela,medium,commercial TLD,yes,Python,209,bench-in-ci,2026-10-01,https://www.quandela.com,France,,,https://github.com/Quandela/Perceval,85.5
+equinor/ert,equinor,Equinor,medium,contributor employers: equinor; Equinor,yes,Python,162,bench-in-ci,2026-10-20,https://equinor.com/,Norway,equinor; Equinor,,https://github.com/equinor/ert,84.3
+ava-labs/firewood,ava-labs,Ava Labs,medium,contributor employers: ava-labs; Ava-Labs,yes,Rust,153,bench-in-ci,2026-10-20,https://www.avalabs.org,New York,ava-labs; Ava-Labs,,https://github.com/ava-labs/firewood,84.0
+portfolioplus/pytickersymbols,portfolioplus,portfolio+,medium,contributor employers: actions,yes,Python,137,bench-in-ci,2026-06-11,,,actions,,https://github.com/portfolioplus/pytickersymbols,83.5
+CodSpeedHQ/pytest-codspeed,CodSpeedHQ,"CodSpeed - Optimize Performance, Eliminate Regressions",medium,contributor employers: CodSpeedHQ; Founding Systems Engineer @c,yes,Python,135,bench-in-ci,2026-10-13,https://codspeed.io,United States of America,CodSpeedHQ; Founding Systems Engineer @codspeedhq,"CodSpeed integrates into dev and CI workflows to measure performance, detect regressions, and enable actionabl",https://github.com/CodSpeedHQ/pytest-codspeed,83.4
+posit-dev/orbital,posit-dev,"Posit, PBC",medium,contributor employers: posit-dev,yes,Python,120,bench-in-ci,2026-10-20,https://posit.co,,posit-dev,,https://github.com/posit-dev/orbital,82.9
+codelv/enaml-web,codelv,CodeLV,medium,contributor employers: Gooey.AI,yes,Python,106,bench-in-ci,2026-05-23,https://codelv.com/,Lehigh Valley,Gooey.AI,,https://github.com/codelv/enaml-web,82.3
+DataFog/datafog-python,DataFog,DataFog,medium,contributor employers: DataFog; actions,yes,Python,79,bench-in-ci,2026-10-05,https://datafog.ai,United States of America,DataFog; actions,Open-source privacy tools for AI workflows. Local PII detection and redaction with DataFog MCP and DataFog Cor,https://github.com/DataFog/datafog-python,80.9
+gridaco/nothing,gridaco,Grida,medium,contributor employers: gridaco; mobsuccess-devops,yes,Rust,53,bench-in-ci,2026-09-18,https://grida.co,,gridaco; mobsuccess-devops,Open Canvas for Humans and Machines,https://github.com/gridaco/nothing,79.0
+scikit-hep/pylhe,scikit-hep,Scikit-HEP Project,medium,contributor employers: University of Wisconsin-Madison,yes,Python,49,bench-in-ci,2026-10-12,https://scikit-hep.org,,University of Wisconsin-Madison,A community project for High Energy Physics data analysis in Python,https://github.com/scikit-hep/pylhe,78.6
+petrovich/pytrovich,petrovich,Petrovich,medium,commercial TLD,yes,Python,46,bench-in-ci,2026-06-13,https://github.com/petrovich/,Russia,,An inflector for Russian anthroponyms.,https://github.com/petrovich/pytrovich,78.3
+prismworks-ai/prism-mcp-rs,prismworks-ai,prismworks.ai,medium,contributor employers: PrismWorks AI Inc.,yes,Rust,46,bench-in-ci,2026-09-28,https://prismworks.ai,Canada,PrismWorks AI Inc.,Building Agent Authority Infrastructure. Databridle connects authority and evidence; our open-source tools sup,https://github.com/prismworks-ai/prism-mcp-rs,78.3
+fast/fastant,fast,FastLabs,medium,contributor employers: scopedb,yes,Rust,41,bench-in-ci,2026-05-13,fast.github.io,,scopedb,We develop fast Rust crates and release them fast.,https://github.com/fast/fastant,77.7
+cq27-dev/rag-rat,cq27-dev,cq27.dev,medium,contributor employers: Oasis-UFPI/Labiras-UESPI,yes,Rust,24,bench-in-ci,2026-10-09,,,Oasis-UFPI/Labiras-UESPI,,https://github.com/cq27-dev/rag-rat,75.2
+PennyLaneAI/PennyLane-IonQ,PennyLaneAI,PennyLaneAI,medium,contributor employers: XanaduAI,yes,Python,20,bench-in-ci,2026-10-01,https://pennylane.ai,,XanaduAI,PennyLane is a cross-platform Python library for differentiable programming of quantum computers. Train a quan,https://github.com/PennyLaneAI/PennyLane-IonQ,74.3
+OpenZeppelin/Event-Scanner,OpenZeppelin,OpenZeppelin,medium,contributor employers: Xinef IT; OpenZeppelin,yes,Rust,19,bench-in-ci,2026-10-15,https://openzeppelin.com,,Xinef IT; OpenZeppelin,The standard for secure blockchain applications,https://github.com/OpenZeppelin/Event-Scanner,74.1
+treeverse/dvc-data,treeverse,lakeFS by Treeverse,medium,contributor employers: fal-ai,yes,Python,18,bench-in-ci,2026-10-19,https://lakefs.io/,,fal-ai,,https://github.com/treeverse/dvc-data,73.8
+imazen/archmage,imazen,Imazen,medium,contributor employers: Imazen,yes,Rust,14,bench-in-ci,2026-10-13,http://imazen.io,United States of America,Imazen,Imaging at scale. 100% OSS  - Est. 2011,https://github.com/imazen/archmage,72.6
+PennyLaneAI/plugin-test-matrix,PennyLaneAI,PennyLaneAI,medium,contributor employers: XanaduAI,yes,Python,13,bench-in-ci,2026-09-24,https://pennylane.ai,,XanaduAI,PennyLane is a cross-platform Python library for differentiable programming of quantum computers. Train a quan,https://github.com/PennyLaneAI/plugin-test-matrix,72.3
+treeverse/dvc-s3,treeverse,lakeFS by Treeverse,medium,contributor employers: fal-ai,yes,Python,13,bench-in-ci,2026-10-19,https://lakefs.io/,,fal-ai,,https://github.com/treeverse/dvc-s3,72.3
+tari-project/bulletproofs-plus,tari-project,The Tari Project,medium,contributor employers: alpenlabs,yes,Rust,10,bench-in-ci,2026-09-07,https://tari.com,,alpenlabs,The Tari Digital Assets Protocol,https://github.com/tari-project/bulletproofs-plus,71.0
+nextgis-borsch/lib_gdal,nextgis-borsch,NextGIS-Borsch,medium,contributor employers: Spatialys; Google,yes,C++,28,bench-in-ci,2026-07-01,https://nextgis.com/borsch,,Spatialys; Google,Extra libraries for NextGIS build system,https://github.com/nextgis-borsch/lib_gdal,70.9
+deed-lang/deed,deed-lang,deed-lang,medium,commercial TLD,yes,Rust,9,bench-in-ci,2026-08-14,https://github.com/deed-lang/deed,,,The Deed Programming Language for Agents.,https://github.com/deed-lang/deed,70.5
+reasonkit/reasonkit-core,reasonkit,ReasonKit,medium,contributor employers: LPH98.ventures,yes,Rust,9,bench-in-ci,2026-09-28,https://ReasonKit.sh,Netherlands,LPH98.ventures,The AI Deep Reasoning Engine,https://github.com/reasonkit/reasonkit-core,70.5
+xila-project/core,xila-project,Xila,medium,contributor employers: Xila-Project @amzn @INSAgenda @insa-roue,yes,Rust,9,bench-in-ci,2026-10-21,www.xila.dev,France,Xila-Project @amzn @INSAgenda @insa-rouen,An open-source operating system for embedded world.,https://github.com/xila-project/core,70.5
+root-project/rootbench,root-project,ROOT,medium,contributor employers: CERN; proximafusion,yes,C++,23,bench-in-ci,2026-10-19,https://root.cern,"Geneva, Switzerland",CERN; proximafusion,"Analysing exabytes of data, scientifically",https://github.com/root-project/rootbench,70.0
+jandira-tech/jubarte-redlines,jandira-tech,Jandira Technologies,medium,contributor employers: anthropics,yes,Rust,7,bench-in-ci,2026-10-21,https://jandira.tech,,anthropics,,https://github.com/jandira-tech/jubarte-redlines,69.3
+erigontech/zilkworm,erigontech,Erigon,medium,contributor employers: ledgerwatch @erigontech,yes,C++,14,bench-in-ci,2026-10-20,https://erigon.tech,,ledgerwatch @erigontech,,https://github.com/erigontech/zilkworm,67.6
+cityjson/cityparquet,cityjson,CityJSON,medium,contributor employers: eukarya-inc @reearth @cityjson @tudelft3,yes,Rust,4,bench-in-ci,2026-10-16,https://cityjson.org,,eukarya-inc @reearth @cityjson @tudelft3d; anthropics,For all CityJSON matters. Managed by @tudelft3d ,https://github.com/cityjson/cityparquet,66.6
+blackthorn-interstellar/ultravin,blackthorn-interstellar,Blackthorn Interstellar,medium,contributor employers: Quanata,yes,Rust,3,bench-in-ci,2026-10-21,,United States of America,Quanata,,https://github.com/blackthorn-interstellar/ultravin,65.2
+saorsa-labs/saorsa-mls,saorsa-labs,Saorsa Labs,medium,contributor employers: MaidSafe; anthropics,yes,Rust,3,bench-in-ci,2026-08-04,,,MaidSafe; anthropics,,https://github.com/saorsa-labs/saorsa-mls,65.2
+composable-delivery/busbar-sf-agentscript,composable-delivery,Composable Delivery,medium,contributor employers: Founder @ MuseLab,yes,C,7,bench-in-ci,2026-06-09,https://muselab.com,,Founder @ MuseLab,"A community dedicated to finding new ways to deliver in the composable, adaptive app future",https://github.com/composable-delivery/busbar-sf-agentscript,64.3
+ferrotype/tsr,ferrotype,Ferrotype,medium,contributor employers: nearForm,yes,Rust,2,bench-in-ci,2026-10-16,,,nearForm,,https://github.com/ferrotype/tsr,63.3
+Industrial-Algebra/Cliffy,Industrial-Algebra,Industrial Algebra,medium,contributor employers: Industrial Algebra,yes,Rust,0,bench-in-ci,2026-10-19,industrialalgebra.com,United States of America,Industrial Algebra,Mathematics >>> Reality,https://github.com/Industrial-Algebra/Cliffy,60.0
+nyrkio/benchzoo,nyrkio,Nyrkiö,medium,contributor employers: nyrkio,yes,Python,0,bench-in-ci,2026-06-18,https://nyrkio.com,Finland,nyrkio,Change Detection for Continuous Performance Engineering workflows,https://github.com/nyrkio/benchzoo,60.0
+snp-labs/zkap-circuit,snp-labs,,medium,contributor employers: kookmin university,yes,Rust,0,bench-in-ci,2026-08-18,,,kookmin university,,https://github.com/snp-labs/zkap-circuit,60.0
+unified-field-dev/quark,unified-field-dev,Unified Field,medium,commercial TLD,yes,Rust,0,bench-in-ci,2026-09-24,https://unified-field.dev/,,,,https://github.com/unified-field-dev/quark,60.0
+hyperion-mc/hyperion,hyperion-mc,,medium,contributor employers: indexable-inc,no,Rust,1092,criterion|divan,2026-10-15,,,indexable-inc,,https://github.com/hyperion-mc/hyperion,81.4
+pgdogdev/pgdog,pgdogdev,PgDog,medium,contributor employers: pgdogdev,no,Rust,5584,divan,2026-10-21,https://pgdog.dev,United States of America,pgdogdev,Scale Postgres without changing your app or your database.,https://github.com/pgdogdev/pgdog,80
+rivet-dev/rivet,rivet-dev,Rivet,medium,contributor employers: rivet-gg,no,Rust,6322,tinybench,2026-10-21,https://rivet.dev,United States of America,rivet-gg,Helping developers build and scale stateful workloads,https://github.com/rivet-dev/rivet,80
+RustAudio/rodio,RustAudio,,medium,contributor employers: Freelance,no,Rust,2494,divan,2026-10-11,https://discord.gg/b3hjnGw,,Freelance,"Free and useful Audio, DSP and music libraries written in Rust. Discord https://discord.gg/b3hjnGw",https://github.com/RustAudio/rodio,77.4
+axoviq-ai/synthadoc,axoviq-ai,axoviq-ai,medium,contributor employers: axoviq-ai,no,Python,1593,pytest-benchmark,2026-10-20,www.axoviq.com,Canada,axoviq-ai,"axoviq-ai occupies the intersection of deep technology and domain expertise. To deliver autonomous, closed-loo",https://github.com/axoviq-ai/synthadoc,75.2
+immerjs/immer,immerjs,immer,medium,contributor employers: Facebook,no,JavaScript,28988,mitata,2026-10-21,,,Facebook,Create the next immutable state tree by simply modifying the current tree,https://github.com/immerjs/immer,75
+graphql/graphql-js,graphql,GraphQL,medium,contributor employers: APIs-guru @Keenethics; watershed-climate,no,TypeScript,20340,mitata,2026-10-20,https://graphql.org,"Menlo Park, CA",APIs-guru @Keenethics; watershed-climate,,https://github.com/graphql/graphql-js,75
+open-pencil/open-pencil,open-pencil,OpenPencil,medium,commercial TLD,no,TypeScript,9156,mitata,2026-10-21,https://openpencil.dev,,,AI-Native Design Editor,https://github.com/open-pencil/open-pencil,75
+h3js/h3,h3js,H3,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,5466,mitata,2026-10-20,https://h3.dev,,unjs . @nitrojs . @h3js . @nuxt,JavaScript ⚡️ H(ttp) tools,https://github.com/h3js/h3,75
+unkeyed/unkey,unkeyed,Unkey,medium,"contributor employers: Unkeyed; Unkeyed,Inc",no,Go,5472,mitata,2026-10-21,https://unkey.com,,"Unkeyed; Unkeyed,Inc","Ship APIs, not infrastructure.",https://github.com/unkeyed/unkey,75
+nodejs/undici,nodejs,Node.js,medium,contributor employers: nxtedition; platformatic,no,JavaScript,7718,mitata,2026-10-21,https://nodejs.org,,nxtedition; platformatic,,https://github.com/nodejs/undici,75
+styled-components/styled-components,styled-components,styled-components,medium,contributor employers: Shopify; expo,no,TypeScript,41065,mitata,2026-10-19,https://styled-components.com,United States of America,Shopify; expo,Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅,https://github.com/styled-components/styled-components,75
+emberjs/ember.js,emberjs,Ember.js,medium,contributor employers: gleanwork; LinkedIn; soxhub,no,TypeScript,22567,mitata,2026-10-20,https://emberjs.com,,gleanwork; LinkedIn; soxhub,,https://github.com/emberjs/ember.js,75
+nodeca/js-yaml,nodeca,Nodeca,medium,contributor employers: Kikoff,no,TypeScript,6635,mitata,2026-10-15,https://rcopen.com,,Kikoff,rcopen.com sources and node.js libraries,https://github.com/nodeca/js-yaml,75
+quansync-dev/quansync,quansync-dev,Quansync,medium,contributor employers: undefined; vercel | @nuxt,no,TypeScript,718,benchmark.js|mitata,2026-09-18,,,undefined; vercel | @nuxt,,https://github.com/quansync-dev/quansync,74.4
+jsonpickle/jsonpickle,jsonpickle,,medium,contributor employers: Cruise,no,Python,1320,pytest-benchmark,2026-10-20,,,Cruise,,https://github.com/jsonpickle/jsonpickle,74.3
+apecloud/ApeRAG,apecloud,ApeCloud,medium,contributor employers: apecloud,no,Python,1322,pytest-benchmark,2026-09-12,apecloud.com,,apecloud,,https://github.com/apecloud/ApeRAG,74.3
+brave/brave-core,brave,Brave Software,medium,contributor employers: brave; Brave Software,no,C++,3699,criterion,2026-10-21,https://brave.com,San Francisco,brave; Brave Software,"We're reinventing the browser as a user-first platform for speed, privacy, better ads, and beyond",https://github.com/brave/brave-core,74.2
+functime-org/functime,functime-org,functime,medium,contributor employers: Tracecat; xtreamsrl,no,Python,1189,pytest-benchmark,2026-05-03,,,Tracecat; xtreamsrl,Open-source time-series machine learning at scale.,https://github.com/functime-org/functime,73.8
+software-mansion/TypeGPU,software-mansion,Software Mansion,medium,contributor employers: Software Mansion,no,TypeScript,3281,tinybench,2026-10-20,https://swmansion.com,"Kraków, Poland",Software Mansion,We are Software Mansion - we build open-source developer tools and provide expert software consulting.,https://github.com/software-mansion/TypeGPU,73.7
+stackblitz/alien-signals,stackblitz,StackBlitz,medium,contributor employers: undefined,no,TypeScript,3270,mitata,2026-06-10,https://stackblitz.com,United States of America,undefined,,https://github.com/stackblitz/alien-signals,73.7
+unjs/jiti,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,2975,mitata,2026-10-18,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/jiti,73.2
+coder/ghostty-web,coder,Coder,medium,contributor employers: coder,no,TypeScript,2981,mitata,2026-10-15,https://coder.com,,coder,"Coder provisions cloud development environments via Terraform, supporting Linux, macOS, Windows, X86, ARM, Kub",https://github.com/coder/ghostty-web,73.2
+intlify/vue-i18n,intlify,intlify,medium,"contributor employers: PLAID, inc",no,TypeScript,2713,mitata,2026-10-21,https://intlify.dev,All over the world,"PLAID, inc",The borderless internationalization,https://github.com/intlify/vue-i18n,72.8
+guessit-io/guessit,guessit-io,guessit.io,medium,contributor employers: actions,no,Python,944,pytest-benchmark,2026-10-21,http://guessit.io,,actions,,https://github.com/guessit-io/guessit,72.7
+unjs/unstorage,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,2658,mitata,2026-10-21,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/unstorage,72.7
+openwebf/webf,openwebf,openwebf,medium,contributor employers: openwebf; alibaba,no,C++,2517,benchmark.js,2026-06-24,openwebf.com,,openwebf; alibaba,Bring JavaScript and Web Dev to Flutter,https://github.com/openwebf/webf,72.4
+Plonky3/Plonky3,Plonky3,,medium,contributor employers: Ethereum Foundation; Polygon; 0xMiden,no,Rust,858,criterion,2026-10-20,,,Ethereum Foundation; Polygon; 0xMiden,,https://github.com/Plonky3/Plonky3,72.3
+availproject/avail,availproject,Avail,medium,contributor employers: availproject,no,Rust,794,divan,2026-10-14,https://www.availproject.org/,,availproject,,https://github.com/availproject/avail,71.9
+SectorLabs/django-postgres-extra,SectorLabs,Sector Labs,medium,contributor employers: SectorLabs; SectorLabs S.L.,no,Python,764,pytest-benchmark,2026-10-05,https://sectorlabs.ro,"Cluj-Napoca, Romania",SectorLabs; SectorLabs S.L.,We do Web. We deal with high traffic on multiple sites in different countries.,https://github.com/SectorLabs/django-postgres-extra,71.7
+coder/xum,coder,Coder,medium,contributor employers: coder,no,TypeScript,2057,mitata,2026-10-21,https://coder.com,,coder,"Coder provisions cloud development environments via Terraform, supporting Linux, macOS, Windows, X86, ARM, Kub",https://github.com/coder/xum,71.4
+c15t/c15t,c15t,c15t,medium,contributor employers: inthhq,no,TypeScript,1991,mitata,2026-10-21,c15t.com,United States of America,inthhq,The open standard for cookie banners,https://github.com/c15t/c15t,71.3
+master-co/css,master-co,Master,medium,contributor employers: master-co,no,TypeScript,1953,tinybench,2026-10-08,https://master.co,Taiwan,master-co,An ecosystem of UI,https://github.com/master-co/css,71.2
+sybil-solutions/local-studio,sybil-solutions,Sybil Solutions,medium,contributor employers: Sybil Solutions,no,TypeScript,1833,tinybench,2026-10-12,https://sybilsolutions.ai,United States of America,Sybil Solutions,A place for all things AI,https://github.com/sybil-solutions/local-studio,70.9
+OpenAgentPlatform/Dive,OpenAgentPlatform,,medium,contributor employers: Funmula Corp.; ~,no,TypeScript,1823,tinybench,2026-07-31,,Taiwan,Funmula Corp.; ~,,https://github.com/OpenAgentPlatform/Dive,70.9
+laspy/laspy,laspy,,medium,contributor employers: KDS - Danish Agency for Climate Data,no,Python,510,pytest-benchmark,2026-05-30,,,KDS - Danish Agency for Climate Data,,https://github.com/laspy/laspy,69.8
+runagent-dev/runagent,runagent-dev,,medium,contributor employers: Shahjalal University of Science and Tech,no,Python,483,pytest-benchmark,2026-06-27,,,"Shahjalal University of Science and Technology, Sylhet",,https://github.com/runagent-dev/runagent,69.5
+event-driven-io/Pongo,event-driven-io,event-driven.io,medium,commercial TLD,no,TypeScript,1378,mitata,2026-10-16,https://event-driven.io,Poland,,,https://github.com/event-driven-io/Pongo,69.5
+unjs/destr,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,1382,mitata,2026-10-20,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/destr,69.5
+ipfs/helia,ipfs,IPFS Project,medium,contributor employers: semantic-release,no,TypeScript,1353,tinybench,2026-10-20,https://ipfs.tech,United States of America,semantic-release,A peer-to-peer hypermedia protocol,https://github.com/ipfs/helia,69.4
+AikidoSec/firewall-node,AikidoSec,Aikido Security,medium,contributor employers: AikidoSec; Aikido Security,no,TypeScript,239,benchmark.js|tinybench,2026-10-20,https://www.aikido.dev,Belgium,AikidoSec; Aikido Security,Aikido Security is a developer-first software security platform. We scan your source code & cloud to show you ,https://github.com/AikidoSec/firewall-node,69.2
+terraphim/terraphim-ai,terraphim,Terraphim — Privacy-Preserving AI Assistant,medium,contributor employers: applied-knowledge-systems,no,Rust,80,criterion|pytest-benchmark,2026-10-21,https://terraphim.ai,United Kingdom,applied-knowledge-systems,Privacy-preserving AI assistant. Local-first knowledge graph search in Rust + WebAssembly.,https://github.com/terraphim/terraphim-ai,68.9
+bearcove/rc-zip,bearcove,bearcove,medium,contributor employers: bearcove,no,Rust,407,divan,2026-08-23,https://bearcove.eu,France,bearcove,It's @fasterthanlime and friends doing open-source & teaching Rust,https://github.com/bearcove/rc-zip,68.7
+ponder-sh/ponder,ponder-sh,Ponder,medium,commercial TLD,no,TypeScript,1152,mitata,2026-10-16,https://ponder.sh,,,,https://github.com/ponder-sh/ponder,68.7
+margelo/react-native-quick-crypto,margelo,Margelo,medium,contributor employers: CEO at @margelo,no,TypeScript,1072,tinybench,2026-10-08,https://margelo.com,,CEO at @margelo,High-end App Development Agency focused on React Native.,https://github.com/margelo/react-native-quick-crypto,68.3
+risechain/pevm,risechain,RISE,medium,contributor employers: risechain,no,Rust,355,criterion,2026-08-05,https://risechain.com,Singapore,risechain,RISE Chain & RISEx,https://github.com/risechain/pevm,68.1
+foldkit/foldkit,foldkit,Foldkit,medium,contributor employers: August Health; anthropics,no,TypeScript,1024,tinybench,2026-10-21,https://foldkit.dev,United States of America,August Health; anthropics,The frontend framework for correctness.,https://github.com/foldkit/foldkit,68.1
+webpack/enhanced-resolve,webpack,webpack,medium,contributor employers: vercel; :(,no,JavaScript,986,tinybench,2026-10-20,https://webpack.js.org,,vercel; :(,,https://github.com/webpack/enhanced-resolve,67.9
+unjs/hookable,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,962,mitata,2026-10-20,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/hookable,67.8
+vuejs/vue-jsx-vapor,vuejs,Vue,medium,contributor employers: teamoffy,no,Rust,323,tinybench,2026-10-18,https://vuejs.org,All Over the World,teamoffy,Your friendly JavaScript framework,https://github.com/vuejs/vue-jsx-vapor,67.6
+h3js/srvx,h3js,H3,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,878,mitata,2026-10-20,https://h3.dev,,unjs . @nitrojs . @h3js . @nuxt,JavaScript ⚡️ H(ttp) tools,https://github.com/h3js/srvx,67.4
+fineshopdesign/cf-wasm,fineshopdesign,Fineshop Design,medium,contributor employers: fineshopdesign,no,Rust,297,criterion,2026-09-19,https://fineshopdesign.com,India,fineshopdesign,,https://github.com/fineshopdesign/cf-wasm,67.2
+nbd-wtf/nostr-tools,nbd-wtf,nbd,medium,contributor employers: soapbox-pub,no,TypeScript,854,mitata,2026-10-18,https://nbd.wtf,United States of America,soapbox-pub,nbd - open source bitcoin & lightning development,https://github.com/nbd-wtf/nostr-tools,67.2
+dgraph-io/pydgraph,dgraph-io,Dgraph,medium,commercial TLD,no,Python,290,pytest-benchmark,2026-06-23,https://dgraph.io,United States of America,,,https://github.com/dgraph-io/pydgraph,67.1
+icaros-usc/pyribs,icaros-usc,ICAROS,medium,contributor employers: icaros-usc,no,Python,268,pytest-benchmark,2026-07-22,http://icaros.usc.edu/,University of Southern California,icaros-usc,Interactive and Collaborative Autonomous Robotic Systems ,https://github.com/icaros-usc/pyribs,66.7
+h3js/rou3,h3js,H3,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,758,mitata,2026-10-03,https://h3.dev,,unjs . @nitrojs . @h3js . @nuxt,JavaScript ⚡️ H(ttp) tools,https://github.com/h3js/rou3,66.7
+markdown-it/linkify-it,markdown-it,Markdown it!,medium,commercial TLD,no,TypeScript,740,mitata,2026-10-18,https://markdown-it.github.io/,,,"Next generation markdown parser in javascript, with pluggable syntax!",https://github.com/markdown-it/linkify-it,66.6
+MapleTechLabs/hazel,MapleTechLabs,Maple,medium,contributor employers: Superwall; kombohq,no,TypeScript,726,tinybench,2026-10-15,https://maple.dev,,Superwall; kombohq,,https://github.com/MapleTechLabs/hazel,66.5
+unjs/ohash,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,734,mitata,2026-10-20,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/ohash,66.5
+risc0/risc0-ethereum,risc0,RISC Zero,medium,contributor employers: risc0,no,Rust,227,criterion,2026-05-12,https://risczero.com,,risc0,,https://github.com/risc0/risc0-ethereum,65.9
+bearcove/dodeca,bearcove,bearcove,medium,contributor employers: bearcove,no,Rust,224,divan,2026-08-21,https://bearcove.eu,France,bearcove,It's @fasterthanlime and friends doing open-source & teaching Rust,https://github.com/bearcove/dodeca,65.9
+unjs/std-env,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,643,mitata,2026-10-20,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/std-env,65.9
+tursodatabase/turso-vdbe-doom-example,tursodatabase,Turso Database,medium,contributor employers: Supabase; PlanetScale,no,Rust,40,divan|mitata,2026-07-16,https://turso.tech,United States of America,Supabase; PlanetScale,The next evolution of SQLite.,https://github.com/tursodatabase/turso-vdbe-doom-example,65.6
+garden-co/jazz,garden-co,Garden Computing,medium,contributor employers: Garden Computing; anthropics,no,Rust,211,divan,2026-10-20,https://garden.co,,Garden Computing; anthropics,Software is too hard. Computers are magic. So why do we put up with so much complexity? We believe just a few ,https://github.com/garden-co/jazz,65.6
+aranya-project/aranya,aranya-project,Aranya Project,medium,contributor employers: spideroak-inc; SpiderOak,no,Rust,199,divan,2026-08-12,,United States of America,spideroak-inc; SpiderOak,Sponsored by Spideroak,https://github.com/aranya-project/aranya,65.3
+Sidiora-Labs/Paxeer-X-Network,Sidiora-Labs,Sidiora Labs,medium,contributor employers: Sidiora Labs Inc; Sidiora-Labs,no,Go,571,criterion,2026-10-21,sidioralabs.com,United States of America,Sidiora Labs Inc; Sidiora-Labs,An Applied Lab for Systems That Connect Ideas to Action.,https://github.com/Sidiora-Labs/Paxeer-X-Network,65.3
+elysiajs/json-accelerator,elysiajs,elysia,medium,commercial TLD,no,TypeScript,520,mitata,2026-08-07,https://elysiajs.com,Thailand,,Ergonomic Framework for Humans,https://github.com/elysiajs/json-accelerator,64.9
+WinterTC55/iter-streams,WinterTC55,WinterTC,medium,contributor employers: cloudflare; aws; HarperFast,no,TypeScript,463,mitata,2026-10-06,https://wintertc.org/,,cloudflare; aws; HarperFast,Technical Committee on Web-interoperable Server Runtimes,https://github.com/WinterTC55/iter-streams,64.3
+poolifier/poolifier,poolifier,Poolifier,medium,contributor employers: Piment Noir,no,JavaScript,454,tinybench,2026-10-21,https://github.com/poolifier,Italy,Piment Noir,Fast and small JavaScript worker pool implementations,https://github.com/poolifier/poolifier,64.2
+DTStack/dt-sql-parser,DTStack,袋鼠云,medium,contributor employers: bytedance; Earth; OceanBase,no,TypeScript,395,benchmark.js,2026-10-08,https://www.dtstack.com/,,bytedance; Earth; OceanBase,,https://github.com/DTStack/dt-sql-parser,63.6
+txpipe/dolos,txpipe,TxPipe,medium,commercial TLD,no,Rust,138,divan,2026-10-21,https://txpipe.io,,,Open Source Blockchain Tools,https://github.com/txpipe/dolos,63.5
+anam-org/metaxy,anam-org,Anam,medium,contributor employers: typesafe-ai; telekom & @complexity-scien,no,Python,125,pytest-benchmark,2026-10-21,https://anam.ai,,typesafe-ai; telekom & @complexity-science-hub & @ascii-supply-networks,Interactive AI avatars,https://github.com/anam-org/metaxy,63.1
+starbeamjs/starbeam,starbeamjs,Starbeam,medium,contributor employers: heroku; Looking to help ship #EmberJS Po,no,TypeScript,362,tinybench,2026-06-01,https://starbeamjs.com,,heroku; Looking to help ship #EmberJS Polaris Faster,"Simple, Fun Reactivity",https://github.com/starbeamjs/starbeam,63.1
+surrealdb/surrealdb.js,surrealdb,SurrealDB,medium,contributor employers: SurrealDB; surrealdb,no,TypeScript,357,mitata,2026-10-15,https://surrealdb.com,United Kingdom,SurrealDB; surrealdb,"A scalable, distributed, collaborative, document-graph database, for the realtime web",https://github.com/surrealdb/surrealdb.js,63.1
+carbonplan/ndpyramid,carbonplan,carbonplan,medium,contributor employers: developmentseed; carbonplan,no,Python,123,pytest-benchmark,2026-10-06,carbonplan.org,earth,developmentseed; carbonplan,Data and science for climate action,https://github.com/carbonplan/ndpyramid,63.0
+unjs/httpxy,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,346,mitata,2026-10-20,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/httpxy,62.9
+tursodatabase/libsql-js,tursodatabase,Turso Database,medium,contributor employers: Supabase; PlanetScale,no,JavaScript,337,mitata,2026-09-29,https://turso.tech,United States of America,Supabase; PlanetScale,The next evolution of SQLite.,https://github.com/tursodatabase/libsql-js,62.8
+DataDome/sliceline,DataDome,DataDome,medium,contributor employers: DataDome; Datadome,no,Python,104,pytest-benchmark,2026-06-08,https://datadome.co,New York,DataDome; Datadome,,https://github.com/DataDome/sliceline,62.2
+availproject/avail-core,availproject,Avail,medium,contributor employers: availproject,no,Rust,103,criterion,2026-07-24,https://www.availproject.org/,,availproject,,https://github.com/availproject/avail-core,62.1
+ApeWorX/pyrlp,ApeWorX,The ApeWorX Collective,medium,contributor employers: Ethereum Foundation,no,Python,103,pytest-benchmark,2026-08-21,https://apeworx.io,Everywhere,Ethereum Foundation,,https://github.com/ApeWorX/pyrlp,62.1
+NodeSecure/js-x-ray,NodeSecure,,medium,contributor employers: JollyPixel,no,TypeScript,288,mitata,2026-10-19,https://nodesecure.io/,,JollyPixel,A group of people 👯 moving toward a safer Node.js and JavaScript ecosystem 🐢🚀,https://github.com/NodeSecure/js-x-ray,62.1
+ing-bank/EntityMatchingModel,ing-bank,ING Bank,medium,contributor employers: ING WBAA,no,Python,101,pytest-benchmark,2026-05-18,https://www.ing.com,"Amsterdam, the Netherlands",ING WBAA,ING Open-source projects,https://github.com/ing-bank/EntityMatchingModel,62.0
+praxis-proxy/praxis,praxis-proxy,Praxis,medium,contributor employers: Red Hat,no,Rust,96,criterion,2026-10-20,https://praxis.fast,United States of America,Red Hat,The AI and cloud-native proxy server,https://github.com/praxis-proxy/praxis,61.8
+date-fns/tz,date-fns,date-fns,medium,contributor employers: CueBox,no,TypeScript,267,tinybench,2026-05-21,https://date-fns.org,Spacetime,CueBox,Modern JavaScript date utility library,https://github.com/date-fns/tz,61.7
+ember-cli/eslint-plugin-ember,ember-cli,ember-cli,medium,contributor employers: vercel; Looking to help ship #EmberJS Po,no,JavaScript,263,mitata,2026-10-20,http://ember-cli.com,,vercel; Looking to help ship #EmberJS Polaris Faster,,https://github.com/ember-cli/eslint-plugin-ember,61.6
+unjs/cookie-es,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,255,mitata,2026-10-20,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/cookie-es,61.5
+oxc-project/oxc-node,oxc-project,oxc,medium,contributor employers: voidzero-dev @cloudflare @napi-rs @rolld,no,TypeScript,252,tinybench,2026-10-21,https://oxc.rs/,,voidzero-dev @cloudflare @napi-rs @rolldown; cloudflare @voidzero-dev @oxc-project @rolldo,⚓ A collection of high-performance tools for JavaScript and TypeScript written in Rust.,https://github.com/oxc-project/oxc-node,61.4
+folk-js/folkjs,folk-js,folkjs,medium,contributor employers: noise-bar,no,TypeScript,230,mitata,2026-10-11,https://folkjs.org,,noise-bar,folkjs is a research lab by Orion Reed and Chris Shank exploring radically different directions that we can in,https://github.com/folk-js/folkjs,61.0
+Starfish-develop/Starfish,Starfish-develop,,medium,contributor employers: University of St. Andrews; Steward Obser,no,Python,78,pytest-benchmark,2026-07-22,,,University of St. Andrews; Steward Observatory; UT Austin Astronomy,,https://github.com/Starfish-develop/Starfish,60.8
+CodSpeedHQ/codspeed-rust,CodSpeedHQ,"CodSpeed - Optimize Performance, Eliminate Regressions",medium,contributor employers: CodSpeedHQ; Founding Systems Engineer @c,no,Rust,75,divan,2026-10-20,https://codspeed.io,United States of America,CodSpeedHQ; Founding Systems Engineer @codspeedhq,"CodSpeed integrates into dev and CI workflows to measure performance, detect regressions, and enable actionabl",https://github.com/CodSpeedHQ/codspeed-rust,60.6
+vlm-run/mm,vlm-run,VLM Run,medium,contributor employers: veedoai; VLM Run; anthropics,no,Python,73,pytest-benchmark,2026-10-20,https://vlm.run,United States of America,veedoai; VLM Run; anthropics,The Unified Gateway for Visual AI,https://github.com/vlm-run/mm,60.5
+rerun-io/examples-monorepo,rerun-io,rerun.io,medium,contributor employers: rerun.io,no,Python,72,criterion,2026-10-15,www.rerun.io,Sweden,rerun.io,"The data layer for physical AI. Log, query, visualize, and stream to training on shared columnar storage built",https://github.com/rerun-io/examples-monorepo,60.4
+hass-energy/haeo,hass-energy,HAEO,medium,contributor employers: 4TelPtyLtd,no,Python,72,pytest-benchmark,2026-10-21,https://haeo.io,Australia,4TelPtyLtd,Open-source energy optimisation for Home Assistant,https://github.com/hass-energy/haeo,60.4
+modern-python/modern-di,modern-python,Modern Python,medium,contributor employers: Raiffeisen Bank; Raiffeisen-DGTL; ag2ai,no,Python,66,pytest-benchmark,2026-10-19,https://modern-python.org/,,Raiffeisen Bank; Raiffeisen-DGTL; ag2ai,Modern Python Development,https://github.com/modern-python/modern-di,60.0
+hapijs/bourne,hapijs,hapi.js,medium,contributor employers: Sideway Inc.,no,JavaScript,180,tinybench,2026-07-02,https://hapi.dev,,Sideway Inc.,"The Simple, Secure Framework Developers Trust",https://github.com/hapijs/bourne,59.8
+unjs/capnp-es,unjs,UnJS,medium,contributor employers: unjs . @nitrojs . @h3js . @nuxt,no,TypeScript,178,mitata,2026-10-20,https://unjs.io,,unjs . @nitrojs . @h3js . @nuxt,Unified JavaScript Tools,https://github.com/unjs/capnp-es,59.8
+Use-Tusk/drift-node-sdk,Use-Tusk,Tusk,medium,contributor employers: Use-Tusk; Tusk,no,TypeScript,172,tinybench,2026-05-07,https://usetusk.ai/,United States of America,Use-Tusk; Tusk,AI testing platform for unit and API tests,https://github.com/Use-Tusk/drift-node-sdk,59.6
+nervosnetwork/sparse-merkle-tree,nervosnetwork,Nervos Network,medium,contributor employers: akasamq,no,Rust,59,criterion,2026-08-27,https://www.nervos.org,,akasamq,,https://github.com/nervosnetwork/sparse-merkle-tree,59.5
+BackendStack21/0http,BackendStack21,21no.de,medium,contributor employers: quasarframework,no,JavaScript,168,mitata,2026-10-09,https://21no.de,Germany,quasarframework,Empowering developers to innovate with faster software components. Donate to https://www.paypal.me/kyberneees,https://github.com/BackendStack21/0http,59.5
+zhinst/laboneq,zhinst,Zurich Instruments,medium,contributor employers: zhinst; Zurich Instruments,no,Python,58,criterion,2026-09-25,https://www.zhinst.com,"Zurich, Switzerland",zhinst; Zurich Instruments,Develop and Grow Together,https://github.com/zhinst/laboneq,59.4
+zincware/ZnTrack,zincware,Zincware,medium,contributor employers: University of Stuttgart; Quantum Brillia,no,Python,57,pytest-benchmark,2026-10-19,zincwarecode.com,Germany,University of Stuttgart; Quantum Brilliance,Open source software organisation hosting software built for computational physics and chemistry.,https://github.com/zincware/ZnTrack,59.3
+rooseveltframework/teddy,rooseveltframework,Roosevelt web framework,medium,contributor employers: CACI; mend,no,JavaScript,162,tinybench,2026-10-21,,,CACI; mend,Organization for Roosevelt MVC web framework and related projects.,https://github.com/rooseveltframework/teddy,59.3
+vallen-systems/vallenae,vallen-systems,Vallen Systeme,medium,contributor employers: vallen-systems,no,Python,55,pytest-benchmark,2026-07-27,https://www.vallen.de,"Wolfratshausen, Germany",vallen-systems,We build innovative Acoustic Emission systems.,https://github.com/vallen-systems/vallenae,59.1
+ensdomains/address-encoder,ensdomains,Ethereum Name Service (ENS),medium,contributor employers: place; True Names Ltd (ENS); Matoken,no,TypeScript,154,mitata,2026-10-19,https://ens.domains/,Ethereum,place; True Names Ltd (ENS); Matoken,,https://github.com/ensdomains/address-encoder,59.1
+surrealdb/revision,surrealdb,SurrealDB,medium,contributor employers: SurrealDB; surrealdb,no,Rust,51,criterion,2026-09-07,https://surrealdb.com,United Kingdom,SurrealDB; surrealdb,"A scalable, distributed, collaborative, document-graph database, for the realtime web",https://github.com/surrealdb/revision,58.8
+marko-js/htmljs-parser,marko-js,marko,medium,contributor employers: eBay; aws,no,TypeScript,143,mitata,2026-10-13,https://markojs.com,,eBay; aws,"A declarative, HTML‑based language that makes building web apps fun.",https://github.com/marko-js/htmljs-parser,58.7
+prospector-dev/requirements-detector,prospector-dev,,medium,contributor employers: camptocamp,no,Python,48,pytest-benchmark,2026-10-19,,,camptocamp,An organisation for maintaining the Prospector linting tool and its immediate dependencies,https://github.com/prospector-dev/requirements-detector,58.5
+engindearing-projects/omni-TAK,engindearing-projects,engindearing,medium,contributor employers: engindearing-projects; anthropics,no,Rust,46,criterion,2026-09-28,https://engindearing.soy,United States of America,engindearing-projects; anthropics,Building Tools that Matter for People,https://github.com/engindearing-projects/omni-TAK,58.3
+tradewelltech/protarrow,tradewelltech,,medium,contributor employers: Tradewell Technologies,no,Python,41,pytest-benchmark,2026-08-15,,,Tradewell Technologies,,https://github.com/tradewelltech/protarrow,57.7
+TuGraph-family/miniGU,TuGraph-family,tugraph-family,medium,contributor employers: East China Normal University,no,Rust,40,divan,2026-05-29,https://www.tugraph.org/,,East China Normal University,,https://github.com/TuGraph-family/miniGU,57.6
+team-exor/eiquidus,team-exor,Exor,medium,contributor employers: NESTEX,no,JavaScript,114,benchmark.js,2026-10-07,https://exor.io,,NESTEX,"Developing useful cryptocurrency tools for developers, professionals and enthusiasts - Home of the Crypto Asse",https://github.com/team-exor/eiquidus,57.6
+multiformats/js-multiaddr,multiformats,Multiformats,medium,contributor employers: semantic-release,no,TypeScript,108,tinybench,2026-05-12,https://multiformats.io,Earth,semantic-release,Self-describing values for future-proofing,https://github.com/multiformats/js-multiaddr,57.4
+zspacelabs/wordchipper,zspacelabs,ZSpaceLabs,medium,commercial TLD,no,Rust,37,divan,2026-05-14,https://zspacelabs.ai,,,,https://github.com/zspacelabs/wordchipper,57.3
+mainmatter/migrating-c-to-rust,mainmatter,Mainmatter,medium,contributor employers: Mainmatter,no,Rust,35,divan,2026-10-21,https://mainmatter.com,Germany,Mainmatter,"We specialize in Rust, Ember and Svelte – supporting organizations in adopting and building on these technolog",https://github.com/mainmatter/migrating-c-to-rust,57.0
+image-rs/weezl,image-rs,image-rs,medium,contributor employers: Imazen,no,Rust,34,criterion,2026-05-17,https://github.com/image-rs/organization,,Imazen,Image libraries for Rust,https://github.com/image-rs/weezl,56.8
+tinylibs/picospinner,tinylibs,Tinylibs,medium,commercial TLD,no,TypeScript,95,tinybench,2026-07-29,https://tinylibs.github.io/,,,A place for tiny and minimal libraries,https://github.com/tinylibs/picospinner,56.8
+arcjet/arcjet-py,arcjet,Arcjet,medium,contributor employers: arcjet @consoledotdev; arcjet,no,Python,32,pytest-benchmark,2026-10-19,https://arcjet.com,,arcjet @consoledotdev; arcjet,The AI agent runtime security platform,https://github.com/arcjet/arcjet-py,56.6
+ukaea/fair-mast,ukaea,UK Atomic Energy Authority,medium,contributor employers: UKAEA; UK Atomic Energy Authority @ukaea,no,Python,32,pytest-benchmark,2026-10-20,https://www.gov.uk/government/organisations/uk-atomic-energy-authority,,UKAEA; UK Atomic Energy Authority @ukaea,,https://github.com/ukaea/fair-mast,56.6
+noaa-ocs-modeling/OCSMesh,noaa-ocs-modeling,NOAA OCS Modeling Projects,medium,contributor employers: NOAA,no,Python,32,pytest-benchmark,2026-10-07,https://github.com/noaa-ocs/OCS-Affiliated-Projects,,NOAA,Modeling work done within Office of Coast Survey,https://github.com/noaa-ocs-modeling/OCSMesh,56.6
+ezmsg-org/ezmsg,ezmsg-org,ezmsg.org,medium,contributor employers: This profile is not affiliated with any ,no,Python,30,pytest-benchmark,2026-10-01,www.ezmsg.org,,This profile is not affiliated with any corporate entity; The Ottawa Hospital Research Ins,,https://github.com/ezmsg-org/ezmsg,56.2
+maplesque/maple,maplesque,,medium,contributor employers: CodSpeedHQ,no,Rust,28,divan,2026-08-16,,,CodSpeedHQ,,https://github.com/maplesque/maple,55.9
+nakafaai/nakafa.com,nakafaai,Nakafa,medium,commercial TLD,no,TypeScript,79,tinybench,2026-10-20,https://nakafa.com,Indonesia,,"fck closed education, enjoy free open education.",https://github.com/nakafaai/nakafa.com,55.9
+GoogleChromeLabs/detect-es-version,GoogleChromeLabs,,medium,contributor employers: google; Shopify,no,JavaScript,76,benchmark.js,2026-06-18,,,google; Shopify,Experimental projects from the Chrome team,https://github.com/GoogleChromeLabs/detect-es-version,55.7
+matter-labs/vm2,matter-labs,Matter Labs,medium,contributor employers: hashintel,no,Rust,23,divan,2026-08-25,https://matter-labs.io,World wide,hashintel,Practical applications of Zero-Knowledge Proofs,https://github.com/matter-labs/vm2,55.0
+memgraph/slack-influence-bot,memgraph,Memgraph,medium,contributor employers: Memgraph; Weaviate; memgraph,no,Python,23,pytest-benchmark,2026-10-05,https://memgraph.com,"London, United Kingdom",Memgraph; Weaviate; memgraph,"High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph",https://github.com/memgraph/slack-influence-bot,55.0
+aicubetechnology/qilbeeDB,aicubetechnology,AICUBE TECHNOLOGY,medium,contributor employers: AICube; Lendico Brazil,no,Rust,22,criterion,2026-09-25,www.aicube.ca,Estonia,AICube; Lendico Brazil,,https://github.com/aicubetechnology/qilbeeDB,54.8
+daangn/urlpack,daangn,당근,medium,commercial TLD,no,TypeScript,61,mitata,2026-10-15,https://about.daangn.com,"Korea, South",,당근은 동네 이웃 간의 연결을 도와 따뜻하고 활발한 교류가 있는 지역 사회를 꿈꾸고 있어요.,https://github.com/daangn/urlpack,54.6
+paritytech/ring-proof,paritytech,Parity Technologies,medium,contributor employers: paritytech,no,Rust,21,criterion,2026-09-24,http://parity.io,United Kingdom,paritytech,Solutions for a trust-free world,https://github.com/paritytech/ring-proof,54.5
+imazen/ultrahdr,imazen,Imazen,medium,contributor employers: Imazen,no,Rust,20,criterion,2026-10-19,http://imazen.io,United States of America,Imazen,Imaging at scale. 100% OSS  - Est. 2011,https://github.com/imazen/ultrahdr,54.3
+elysiajs/elysia-static,elysiajs,elysia,medium,commercial TLD,no,TypeScript,50,tinybench,2026-10-19,https://elysiajs.com,Thailand,,Ergonomic Framework for Humans,https://github.com/elysiajs/elysia-static,53.7
+pinecone-io/VSB,pinecone-io,Pinecone,medium,commercial TLD,no,Python,17,pytest-benchmark,2026-08-14,https://www.pinecone.io,,,"The vector database for machine learning applications. Build vector-based personalization, ranking, and search",https://github.com/pinecone-io/VSB,53.5
+noctisynth/archons,noctisynth,晦明枢,medium,contributor employers: noctisynth @farm-fe @DevCloudFE,no,Rust,15,tinybench,2026-10-20,noctisynth.org,,noctisynth @farm-fe @DevCloudFE,,https://github.com/noctisynth/archons,52.9
+fontello/cubic2quad,fontello,Fontello,medium,commercial TLD,no,JavaScript,36,benchmark.js,2026-08-26,http://fontello.com,,,fontello.com sources & svg/font libraries,https://github.com/fontello/cubic2quad,52.1
+RustPython/pymath,RustPython,RustPython Dev,medium,contributor employers: youknowone.org,no,Rust,12,divan,2026-10-14,,,youknowone.org,,https://github.com/RustPython/pymath,51.9
+uutils/uutils-term-grid,uutils,Uutils,medium,contributor employers: Binary Star Systems; NLnetLabs; Mozilla,no,Rust,12,divan,2026-07-29,https://uutils.org,France,Binary Star Systems; NLnetLabs; Mozilla,Reimplementation of core tools in Rust,https://github.com/uutils/uutils-term-grid,51.9
+webllm/renderify,webllm,Web LLM,medium,contributor employers: ringcentral,no,TypeScript,33,tinybench,2026-10-07,,,ringcentral,"Bringing LLMs to the Web — runtimes, agents, and automation tools.",https://github.com/webllm/renderify,51.7
+maml-dev/maml.js,maml-dev,MAML,medium,contributor employers: qiwi,no,JavaScript,30,tinybench,2026-06-11,https://maml.dev,,qiwi,Minimal configuration language. Human-readable. Machine-parsable.,https://github.com/maml-dev/maml.js,51.2
+genlm/genlm-grammar,genlm,GenLM,medium,contributor employers: dihedral-aero,no,Python,10,pytest-benchmark,2026-09-26,genlm.org,,dihedral-aero,An ecosystem for language model probabilistic programming,https://github.com/genlm/genlm-grammar,51.0
+CodSpeedHQ/codspeed-node,CodSpeedHQ,"CodSpeed - Optimize Performance, Eliminate Regressions",medium,contributor employers: CodSpeedHQ; Founding Systems Engineer @c,no,TypeScript,28,tinybench,2026-10-17,https://codspeed.io,United States of America,CodSpeedHQ; Founding Systems Engineer @codspeedhq,"CodSpeed integrates into dev and CI workflows to measure performance, detect regressions, and enable actionabl",https://github.com/CodSpeedHQ/codspeed-node,50.9
+sinonjs/samsam,sinonjs,Sinon.JS,medium,contributor employers: scienta,no,JavaScript,28,benchmark.js,2026-07-01,https://sinonjs.org,,scienta,"Standalone test spies, stubs and mocks for JavaScript.",https://github.com/sinonjs/samsam,50.9
+1kbgz/transports,1kbgz,1kbgz,medium,contributor employers: Point72,no,Python,9,pytest-benchmark,2026-10-21,1kbgz.com,United States of America,Point72,1kbgz is a development studio based in nyc.,https://github.com/1kbgz/transports,50.5
+palixir/wobe,palixir,,medium,contributor employers: Ethereum Foundation,no,TypeScript,23,mitata,2026-08-22,,,Ethereum Foundation,,https://github.com/palixir/wobe,50.0
+mapbox/glyph-pbf-composite,mapbox,Mapbox,medium,contributor employers: val-town; FoxGIS; moonpay,no,JavaScript,21,benchmark.js,2026-06-29,https://www.mapbox.com,Washington DC,val-town; FoxGIS; moonpay,Mapbox is the location data platform for mobile and web applications. We're changing the way people move aroun,https://github.com/mapbox/glyph-pbf-composite,49.5
+hypermesh-online/hypermesh,hypermesh-online,hypermesh.online,medium,contributor employers: NeoTecLLC,no,Rust,7,criterion,2026-09-07,,,NeoTecLLC,,https://github.com/hypermesh-online/hypermesh,49.3
+pex-gl/pex-math,pex-gl,,medium,contributor employers: variablestudio; http://variable.io,no,JavaScript,18,tinybench,2026-08-12,https://pex.gl/,,variablestudio; http://variable.io,,https://github.com/pex-gl/pex-math,48.8
+seaflow-uw/seaflowpy,seaflow-uw,SeaFlow@UW,medium,contributor employers: University of Washington,no,Python,6,pytest-benchmark,2026-08-31,https://ribaletlab.org,"University of Washington, Seattle, WA USA",University of Washington,SeaFlow@UW seeks to create reproducible analytical methods to uniformly process and curate SeaFlow data,https://github.com/seaflow-uw/seaflowpy,48.6
+nodecraft/ya-bbcode,nodecraft,Nodecraft,medium,contributor employers: nodecraft,no,TypeScript,17,tinybench,2026-06-01,https://nodecraft.com,"Oklahoma, United States",nodecraft,,https://github.com/nodecraft/ya-bbcode,48.5
+ClickHouse/rust_vendor,ClickHouse,ClickHouse,medium,contributor employers: ClickHouse,no,Rust,5,criterion,2026-10-16,https://clickhouse.com,United States of America,ClickHouse,The leading database for AI,https://github.com/ClickHouse/rust_vendor,47.7
+webdriverio/bx,webdriverio,WebdriverIO,medium,contributor employers: langchain-ai,no,TypeScript,14,tinybench,2026-10-19,https://webdriver.io/,anywhere,langchain-ai,Next-gen browser and mobile automation test framework for Node.js,https://github.com/webdriverio/bx,47.6
+imazen/zenraw,imazen,Imazen,medium,contributor employers: Imazen,no,Rust,4,criterion,2026-10-19,http://imazen.io,United States of America,Imazen,Imaging at scale. 100% OSS  - Est. 2011,https://github.com/imazen/zenraw,46.6
+DreamWeave-MP/vfstool,DreamWeave-MP,DreamWeave Modding,medium,contributor employers: DreamWeave-MP,no,Rust,4,criterion,2026-09-30,,United States of America,DreamWeave-MP,,https://github.com/DreamWeave-MP/vfstool,46.6
+silurian-ai/radrs,silurian-ai,Silurian AI,medium,commercial TLD,no,Python,4,pytest-benchmark,2026-09-14,https://silurian.ai,,,,https://github.com/silurian-ai/radrs,46.6
+public-transport/gtfs-via-duckdb,public-transport,Public Transport,medium,contributor employers: freelancer,no,JavaScript,9,tinybench,2026-09-25,https://transport.rest/,,freelancer,Metro Emoji by EmojiOne,https://github.com/public-transport/gtfs-via-duckdb,45.5
+cats-of-the-world/squid,cats-of-the-world,Cats of the World: unite!,medium,contributor employers: cats-of-the-world,no,Rust,3,criterion,2026-10-18,https://communist.dev,Japan,cats-of-the-world,Open source software maintened by @era and friends,https://github.com/cats-of-the-world/squid,45.2
+pickier/pickier,pickier,Pickier,medium,contributor employers: stacksjs,no,TypeScript,8,mitata,2026-10-21,https://pickier.netlify.app,,stacksjs,Performant linting & formatting. Lightweight & dependency-free.,https://github.com/pickier/pickier,44.9
+ice-render/ice-render,ice-render,ice-render,medium,contributor employers: None,no,TypeScript,8,mitata,2026-09-26,https://ice-render.github.io/ice-render-doc/,,None,雪花渲染器,https://github.com/ice-render/ice-render,44.9
+aftershootco/ndcv-bridge,aftershootco,AfterShoot,medium,contributor employers: aftershootco,no,Rust,2,divan,2026-10-14,https://aftershoot.com,On your Mac and PC!,aftershootco,Helping photographers do more with their time!,https://github.com/aftershootco/ndcv-bridge,43.3
+oxidized-world/svgo-rs,oxidized-world,Oxidized World,medium,contributor employers: Alibaba,no,Rust,2,tinybench,2026-08-18,,,Alibaba,,https://github.com/oxidized-world/svgo-rs,43.3
+Better-Tables/better-tables,Better-Tables,better-tables,medium,contributor employers: EAIGLE-Group,no,TypeScript,5,mitata,2026-09-21,bettertables.dev,,EAIGLE-Group,,https://github.com/Better-Tables/better-tables,42.7
+pamin-labs/orchestrator,pamin-labs,Påmin Labs,medium,contributor employers: Microsoft,no,TypeScript,3,tinybench,2026-10-10,https://paminlabs.com/,Australia,Microsoft,,https://github.com/pamin-labs/orchestrator,40.2
+Saikrishna-Ambeti/kairo,Saikrishna-Ambeti,Saikrishna Ambeti,medium,contributor employers: CEO @ Ping.gg,no,TypeScript,3,tinybench,2026-10-05,,,CEO @ Ping.gg,,https://github.com/Saikrishna-Ambeti/kairo,40.2
+vitus-labs/ui-system,vitus-labs,Vitus Labs,medium,commercial TLD,no,TypeScript,3,tinybench,2026-10-17,https://vitus-labs.com/,,,Let's make a DX lovely!,https://github.com/vitus-labs/ui-system,40.2
+aosp-mirror-neo/platform_external_rust_android-crates-io,aosp-mirror-neo,Android Open Source Project Mirror (unofficial),medium,contributor employers: ex-Google,no,Rust,0,criterion,2026-08-27,https://android.googlesource.com/,,ex-Google,,https://github.com/aosp-mirror-neo/platform_external_rust_android-crates-io,40.0
+konstruct-msg/construct-core,konstruct-msg,Konstruct,medium,contributor employers: anthropics,no,Rust,1,criterion,2026-10-20,konstruct.cc,,anthropics,,https://github.com/konstruct-msg/construct-core,40.0
+terraphim/terraphim-service,terraphim,Terraphim — Privacy-Preserving AI Assistant,medium,contributor employers: applied-knowledge-systems,no,Rust,0,criterion,2026-08-12,https://terraphim.ai,United Kingdom,applied-knowledge-systems,Privacy-preserving AI assistant. Local-first knowledge graph search in Rust + WebAssembly.,https://github.com/terraphim/terraphim-service,40.0
+cntryl/fitz-rs,cntryl,cntryl,medium,commercial TLD,no,Rust,0,criterion,2026-10-16,https://www.cntryl.com,,,cntryl,https://github.com/cntryl/fitz-rs,40.0
+LLM-Dev-Ops/auto-optimizer,LLM-Dev-Ops,Agentics.dev,medium,contributor employers: https://github.com/cognitum-one/,no,Rust,0,criterion,2026-10-17,,Canada,https://github.com/cognitum-one/,,https://github.com/LLM-Dev-Ops/auto-optimizer,40.0
+luxfi/multi-party-ecdsa,luxfi,▼,medium,contributor employers: MoonMath.ai; ZenGo-X,no,Rust,0,criterion,2026-10-01,https://lux.link,,MoonMath.ai; ZenGo-X,"Post-quantum blockchain with multi-consensus, FHE, and cross-chain interoperability.",https://github.com/luxfi/multi-party-ecdsa,40.0
+deepin-community/librsvg,deepin-community,deepin Community,medium,contributor employers: linuxdeepin; linuxdeepin @strexp @eweOS,no,Rust,0,criterion,2026-10-14,https://www.deepin.org/,China,linuxdeepin; linuxdeepin @strexp @eweOS,Welcome to the deepin community.,https://github.com/deepin-community/librsvg,40.0
+synnaxlabs/foundation,synnaxlabs,Synnax,medium,contributor employers: synnaxlabs,no,Rust,0,divan,2026-10-20,https://docs.synnaxlabs.com/,,synnaxlabs,Building the software infrastructure for data driven hardware teams.,https://github.com/synnaxlabs/foundation,40.0
+getsentry/ophio,getsentry,Sentry,medium,contributor employers: getsentry Sentry,no,Rust,1,divan,2026-10-19,https://sentry.io,United States of America,getsentry Sentry,"Real-time crash reporting for your web apps, mobile apps, and games.",https://github.com/getsentry/ophio,40.0
+terraphim/terraphim-gpui-desktop,terraphim,Terraphim — Privacy-Preserving AI Assistant,medium,contributor employers: applied-knowledge-systems,no,Rust,0,pytest-benchmark,2026-05-06,https://terraphim.ai,United Kingdom,applied-knowledge-systems,Privacy-preserving AI assistant. Local-first knowledge graph search in Rust + WebAssembly.,https://github.com/terraphim/terraphim-gpui-desktop,40.0
+YakRoboticsGarage/yakrover-marketplace,YakRoboticsGarage,Yak Robotics Garage,medium,contributor employers: ZKsync; anthropics,no,Python,0,pytest-benchmark,2026-06-28,https://www.yakroboticsgarage.com,,ZKsync; anthropics,,https://github.com/YakRoboticsGarage/yakrover-marketplace,40.0
+terraphim/terraphim-ai-gpu-experimental,terraphim,Terraphim — Privacy-Preserving AI Assistant,medium,contributor employers: applied-knowledge-systems,no,Rust,1,pytest-benchmark,2026-05-06,https://terraphim.ai,United Kingdom,applied-knowledge-systems,Privacy-preserving AI assistant. Local-first knowledge graph search in Rust + WebAssembly.,https://github.com/terraphim/terraphim-ai-gpu-experimental,40.0
+Wat-Street/datastream,Wat-Street,Wat Street,medium,contributor employers: Super.com; anthropics,no,Python,0,pytest-benchmark,2026-09-30,,,Super.com; anthropics,Waterloo's Quantitative Finance Design Team,https://github.com/Wat-Street/datastream,40.0
+zeroae/zae-limiter,zeroae,ZeroAE,medium,contributor employers: zeroae; anthropics,no,Python,0,pytest-benchmark,2026-10-21,,"Bethesda, MD",zeroae; anthropics,,https://github.com/zeroae/zae-limiter,40.0
+pylon-code/pylon,pylon-code,,medium,contributor employers: CEO @ Ping.gg,no,TypeScript,2,tinybench,2026-10-04,,,CEO @ Ping.gg,,https://github.com/pylon-code/pylon,38.3
+stacksjs/ts-css-legacy,stacksjs,Stacks,medium,contributor employers: stacksjs,no,TypeScript,2,mitata,2026-10-21,https://stacksjs.com,United States of America,stacksjs,"A progressive, atomic full-stack framework for artisans. Develop framework-agnostic apps & libraries, faster. ",https://github.com/stacksjs/ts-css-legacy,38.3
+cthulhu-oidc/license-manager,cthulhu-oidc,Cthulhu,medium,contributor employers: Mobibean LLC,no,TypeScript,0,tinybench,2026-10-19,,,Mobibean LLC,,https://github.com/cthulhu-oidc/license-manager,35.0
+openchronology/timeline-app,openchronology,OpenChronology,medium,contributor employers: Aralia Software,no,JavaScript,0,tinybench,2026-10-20,,,Aralia Software,Timeline Editor,https://github.com/openchronology/timeline-app,35.0
+PluxelJS/Eventure,PluxelJS,,medium,commercial TLD,no,TypeScript,0,tinybench,2026-04-28,https://www.pluxel.dev,,,,https://github.com/PluxelJS/Eventure,35.0
+zhcndoc/zod,zhcndoc,简中文档,medium,contributor employers: Weis Guys; vercel,no,TypeScript,1,mitata,2026-10-20,https://www.zhcndoc.com,China,Weis Guys; vercel,由开源社区提供支持的中文技术文档，旨在为中文地区开发者提供优质的技术文档查阅体验。,https://github.com/zhcndoc/zod,35.0
+stoked-ui/sui,stoked-ui,SUI,medium,contributor employers: MUI,no,TypeScript,1,benchmark.js,2026-09-28,stokedconsulting.com,United States of America,MUI,User interface libs for user interface nerds.,https://github.com/stoked-ui/sui,35.0
+borgbackup/borg,borgbackup,BorgBackup,low,"has site, non-commercial TLD",yes,Python,13867,bench-in-ci,2026-10-20,https://www.borgbackup.org,Germany,,Resistance is futile!,https://github.com/borgbackup/borg,100
+wasmi-labs/wasmi,wasmi-labs,Wasmi Labs,low,no org signal,yes,Rust,2329,bench-in-ci,2026-10-13,,,,Developers of the Wasmi WebAssembly interpreter and associated projects.,https://github.com/wasmi-labs/wasmi,97.0
+tikv/minitrace-rust,tikv,TiKV Project,low,no org signal,yes,Rust,750,bench-in-ci,2026-09-14,,,,,https://github.com/tikv/minitrace-rust,91.6
+aiidateam/aiida-core,aiidateam,AiiDA team,low,"has site, non-commercial TLD",yes,Python,601,bench-in-ci,2026-10-20,http://www.aiida.net,,,The development team of AiiDA,https://github.com/aiidateam/aiida-core,90.6
+tikv/fail-rs,tikv,TiKV Project,low,no org signal,yes,Rust,377,bench-in-ci,2026-09-14,,,,,https://github.com/tikv/fail-rs,88.3
+Bears-R-Us/arkouda,Bears-R-Us,Bears-R-Us,low,no org signal,yes,Python,283,bench-in-ci,2026-10-16,,,,,https://github.com/Bears-R-Us/arkouda,87.0
+tikv/minstant,tikv,TiKV Project,low,no org signal,yes,Rust,201,bench-in-ci,2026-09-14,,,,,https://github.com/tikv/minstant,85.3
+python-rapidjson/python-rapidjson,python-rapidjson,,low,no org signal,yes,C++,533,bench-in-ci,2026-10-12,,,,,https://github.com/python-rapidjson/python-rapidjson,85.0
+PlasmaControl/DESC,PlasmaControl,Plasma Control,low,"has site, non-commercial TLD",yes,Python,168,bench-in-ci,2026-10-20,https://control.princeton.edu/,United States of America,,,https://github.com/PlasmaControl/DESC,84.5
+OxidizeLabs/cachekit,OxidizeLabs,OxidizeLabs,low,no org signal,yes,Rust,162,bench-in-ci,2026-10-19,,United Kingdom,,Developing high performance Rust based projects mostly related to DBMS,https://github.com/OxidizeLabs/cachekit,84.3
+pymovements/pymovements,pymovements,pymovements,low,no org signal,yes,Python,150,bench-in-ci,2026-10-20,,,,a python package for processing eye movement data,https://github.com/pymovements/pymovements,83.9
+project-oak/tink-rust,project-oak,project-oak,low,no org signal,yes,Rust,95,bench-in-ci,2026-05-28,,,,,https://github.com/project-oak/tink-rust,81.8
+clEsperanto/pyclesperanto,clEsperanto,,low,"has site, non-commercial TLD",yes,Python,65,bench-in-ci,2026-10-15,clEsperanto.net,,,GPU-accelerated image processing across languages and platforms,https://github.com/clEsperanto/pyclesperanto,79.9
+AarambhDevHub/animato,AarambhDevHub,AarambhDevHub,low,no org signal,yes,Rust,60,bench-in-ci|criterion,2026-10-21,,,,"AarambhDevHub – Building innovative solutions with Rust, Next.js, Blockchain, and WebSockets.",https://github.com/AarambhDevHub/animato,79.6
+glory-rs/glory,glory-rs,,low,no org signal,yes,Rust,43,bench-in-ci,2026-08-13,,,,,https://github.com/glory-rs/glory,78.0
+SoupTeam/soup-wall,SoupTeam,Soup,low,"has site, non-commercial TLD",yes,Rust,27,bench-in-ci,2026-10-21,trysoup.dev,United States of America,,the best team,https://github.com/SoupTeam/soup-wall,75.7
+vianetwork/via-core,vianetwork,Via Network,low,"has site, non-commercial TLD",yes,Rust,13,bench-in-ci,2026-10-21,https://vianetwork.xyz,,,Via Network is a validity-proof zkEVM rollup for Bitcoin anchored by commitments,https://github.com/vianetwork/via-core,72.3
+fundu-rs/fundu,fundu-rs,,low,no org signal,yes,Rust,10,bench-in-ci,2026-10-18,,,,,https://github.com/fundu-rs/fundu,71.0
+ophi-dev/cribo,ophi-dev,,low,no org signal,yes,Rust,9,bench-in-ci,2026-10-21,,,,,https://github.com/ophi-dev/cribo,70.5
+snakewayhq/snakeway,snakewayhq,,low,no org signal,yes,Rust,5,bench-in-ci,2026-09-27,,,,,https://github.com/snakewayhq/snakeway,67.7
+Carabryx/crabgraph,Carabryx,,low,no org signal,yes,Rust,2,bench-in-ci,2026-06-21,,,,,https://github.com/Carabryx/crabgraph,63.3
+TuringWorks/orbit-rs,TuringWorks,,low,no org signal,yes,Rust,0,bench-in-ci,2026-09-23,,,,,https://github.com/TuringWorks/orbit-rs,60.0
+doshareme/synchole,doshareme,DoShare,low,"has site, non-commercial TLD",yes,Rust,0,bench-in-ci,2026-05-22,getcloud.doshare.me,,,Making Sharing Easier,https://github.com/doshareme/synchole,60.0
+mysqljs/sql-escaper,mysqljs,,low,no org signal,yes,TypeScript,1,bench-in-ci,2026-09-14,,,,,https://github.com/mysqljs/sql-escaper,55.0
+ohmjs/ohm,ohmjs,OhmJS,low,"has site, non-commercial TLD",no,JavaScript,5554,mitata|tinybench,2026-06-19,https://ohmjs.org,,,A user-friendly parsing toolkit for JavaScript and TypeScript,https://github.com/ohmjs/ohm,83
+valence-rs/valence,valence-rs,Valence,low,"has site, non-commercial TLD",no,Rust,3279,divan,2026-06-15,valence.rs,,,A Rust framework for building Minecraft servers.,https://github.com/valence-rs/valence,78.7
+django-commons/django-unicorn,django-commons,Django Commons,low,"has site, non-commercial TLD",no,Python,2665,pytest-benchmark,2026-05-22,https://django-commons.org,,,,https://github.com/django-commons/django-unicorn,77.7
+cheeriojs/cheerio,cheeriojs,Cheerio,low,"has site, non-commercial TLD",no,TypeScript,30526,tinybench,2026-10-21,https://cheerio.js.org,,,"Fast, flexible, and lean implementation of core jQuery designed specifically for the server.",https://github.com/cheeriojs/cheerio,75
+theseus-rs/rsql,theseus-rs,Theseus,low,no org signal,no,Rust,459,criterion,2026-09-29,,United States of America,,Theseus,https://github.com/theseus-rs/rsql,69.3
+py-econometrics/pyfixest,py-econometrics,py-econometrics,low,no org signal,no,Python,358,pytest-benchmark,2026-10-20,,,,Tools for Applied Econometrics in Python,https://github.com/py-econometrics/pyfixest,68.1
+Effect-TS/effect-smol,Effect-TS,Effect,low,"has site, non-commercial TLD",no,TypeScript,782,tinybench,2026-07-14,https://www.effect.website,London,,A set of libraries to write better TypeScript,https://github.com/Effect-TS/effect-smol,66.8
+cnmetlab/cnmaps,cnmetlab,MeteorByte,low,no org signal,no,Python,172,pytest-benchmark,2026-07-21,,,,,https://github.com/cnmetlab/cnmaps,64.6
+CADLabs/radCAD,CADLabs,CADLabs,low,"has site, non-commercial TLD",no,Python,120,pytest-benchmark,2026-06-26,https://cadlabs.org,,,Informed Web 3 Design Decisions. We support leading Web 3 projects in designing and validating complex systems,https://github.com/CADLabs/radCAD,62.9
+squirrelchat/smol-toml,squirrelchat,Squirrel Chat,low,"has site, non-commercial TLD",no,TypeScript,316,mitata,2026-10-10,https://squirrel.chat,"Toulouse, France",,Upcoming™ chat platform focused on privacy and user experience,https://github.com/squirrelchat/smol-toml,62.5
+iex-rs/lithium,iex-rs,#[iex],low,no org signal,no,Rust,104,criterion,2026-10-05,,,,Bringing unwinding to Rust,https://github.com/iex-rs/lithium,62.2
+that-in-rust/parseltongue-rust-LLM-companion,that-in-rust,that-in-rust,low,no org signal,no,Rust,105,criterion,2026-07-13,,,,that library in rust,https://github.com/that-in-rust/parseltongue-rust-LLM-companion,62.2
+zendev-sh/goai,zendev-sh,zendev.sh,low,no org signal,no,Go,227,tinybench,2026-10-20,,,,,https://github.com/zendev-sh/goai,60.9
+tikv/async-speed-limit,tikv,TiKV Project,low,no org signal,no,Rust,69,criterion,2026-08-31,,,,,https://github.com/tikv/async-speed-limit,60.2
+universal-tool-calling-protocol/rs-utcp,universal-tool-calling-protocol,Universal Tool Calling Protocol,low,"has site, non-commercial TLD",no,Rust,59,criterion,2026-05-12,utcp.io,,,,https://github.com/universal-tool-calling-protocol/rs-utcp,59.5
+dashpay/grovedb,dashpay,Dash,low,"has site, non-commercial TLD",no,Rust,49,criterion,2026-10-20,https://www.dash.org,,,Reinventing Cryptocurrency,https://github.com/dashpay/grovedb,58.6
+wtransport/pywebtransport,wtransport,WTransport,low,"has site, non-commercial TLD",no,Rust,43,pytest-benchmark,2026-08-23,https://wtransport.org,,,High-performance WebTransport implementations.,https://github.com/wtransport/pywebtransport,58.0
+harmonic/salsa,harmonic,Harmonic,low,no org signal,no,Rust,38,criterion,2026-10-19,,,,,https://github.com/harmonic/salsa,57.4
+Effectful-Tech/cruster,Effectful-Tech,,low,no org signal,no,TypeScript,69,criterion,2026-04-29,,,,,https://github.com/Effectful-Tech/cruster,55.2
+ophi-dev/antlr-rust-runtime,ophi-dev,,low,no org signal,no,Rust,23,divan,2026-10-21,,,,,https://github.com/ophi-dev/antlr-rust-runtime,55.0
+emfcamp/slotmachine,emfcamp,Electromagnetic Field,low,"has site, non-commercial TLD",no,Python,22,pytest-benchmark,2026-07-08,https://www.emfcamp.org,UK,,A weekend of geekery in an internet-connected field.,https://github.com/emfcamp/slotmachine,54.8
+category-labs/manytrace,category-labs,Category Labs,low,"has site, non-commercial TLD",no,Rust,21,divan,2026-10-14,https://www.category.xyz/,United States of America,,,https://github.com/category-labs/manytrace,54.5
+Root-IO-Labs/open-agent-teams,Root-IO-Labs,,low,no org signal,no,Python,11,pytest-benchmark,2026-07-27,,,,,https://github.com/Root-IO-Labs/open-agent-teams,51.5
+azukds/model_interpreter,azukds,Allianz UK Data Science Team,low,no org signal,no,Python,9,pytest-benchmark,2026-08-03,,UK,,Open Source Software from Allianz UK Data Science Team,https://github.com/azukds/model_interpreter,50.5
+HorizonRepublic/nestjs-jetstream,HorizonRepublic,HorizonRepublic,low,"has site, non-commercial TLD",no,TypeScript,21,tinybench,2026-10-21,horizon-republic.dev,Ukraine,,,https://github.com/HorizonRepublic/nestjs-jetstream,49.5
+HudHudMind/hudhudscript,HudHudMind,,low,no org signal,no,Rust,5,criterion,2026-10-04,,,,,https://github.com/HudHudMind/hudhudscript,47.7
+modc2/mod,modc2,modc2,low,no org signal,no,Rust,5,criterion,2026-10-21,,,,a modular ecosystem,https://github.com/modc2/mod,47.7
+rwdocs/rw,rwdocs,,low,no org signal,no,Rust,4,divan,2026-10-21,,,,,https://github.com/rwdocs/rw,46.6
+nerima-lisp/paredit-cli,nerima-lisp,,low,no org signal,no,Rust,2,criterion,2026-10-19,,,,,https://github.com/nerima-lisp/paredit-cli,43.3
+deliberium/mnemara,deliberium,Deliberium AI,low,no org signal,no,Rust,0,criterion,2026-06-08,,United Kingdom,,,https://github.com/deliberium/mnemara,40.0
+BURST-UBI/protocol,BURST-UBI,,low,no org signal,no,Rust,0,criterion,2026-10-19,,,,,https://github.com/BURST-UBI/protocol,40.0
+autonomy-cloud/agents,autonomy-cloud,,low,no org signal,no,Python,1,criterion,2026-09-23,,,,,https://github.com/autonomy-cloud/agents,40.0
+Sonar-team/pcap-forge,Sonar-team,Sonar-team,low,no org signal,no,Rust,0,criterion,2026-07-14,,France,,An open-source network analysis tool coded in rust,https://github.com/Sonar-team/pcap-forge,40.0
+greptile-examples/delta-rs-info-schema-views-vanish,greptile-examples,,low,no org signal,no,Rust,0,divan,2026-06-17,,,,,https://github.com/greptile-examples/delta-rs-info-schema-views-vanish,40.0
+aha-labs/nebula,aha-labs,Aha Labs,low,no org signal,no,Python,0,pytest-benchmark,2026-08-27,,,,,https://github.com/aha-labs/nebula,40.0
+AI4SciComp/asc-py,AI4SciComp,,low,no org signal,no,Python,0,pytest-benchmark,2026-08-31,,,,,https://github.com/AI4SciComp/asc-py,40.0
+D-sorganization/OpenSim_Models,D-sorganization,Dieter Olson,low,no org signal,no,Python,0,pytest-benchmark,2026-10-20,,,,,https://github.com/D-sorganization/OpenSim_Models,40.0
+Archolith/archolith-filter,Archolith,,low,no org signal,no,Python,0,pytest-benchmark,2026-09-08,,,,,https://github.com/Archolith/archolith-filter,40.0
+tracepanel/tracepanel,tracepanel,Trancepanel,low,no org signal,no,TypeScript,2,divan,2026-10-21,,,,,https://github.com/tracepanel/tracepanel,38.3
+ecopages/radiant,ecopages,Ecopages,low,no org signal,no,TypeScript,2,mitata,2026-10-17,,,,A collection of tools for building static sites and full-stack web apps,https://github.com/ecopages/radiant,38.3
+codesociety-net/typescript,codesociety-net,,low,no org signal,no,TypeScript,0,tinybench,2026-10-19,,,,,https://github.com/codesociety-net/typescript,35.0
+laplace-live/facet,laplace-live,LAPLACE Live!,low,"has site, non-commercial TLD",no,TypeScript,0,mitata,2026-10-18,https://laplace.live,,,Tech otakus destroy the world,https://github.com/laplace-live/facet,35.0
+yammm/ynode-redis,yammm,yammm,low,no org signal,no,JavaScript,1,benchmark.js,2026-10-17,,United States of America,,,https://github.com/yammm/ynode-redis,35.0
+LocalCoding/pasv-validator,LocalCoding,LocalCoding,low,no org signal,no,JavaScript,0,benchmark.js,2026-09-29,,,,,https://github.com/LocalCoding/pasv-validator,35.0
+OSGeo/gdal,OSGeo,Open Source Geospatial Foundation,none,foundation,yes,C++,6108,bench-in-ci,2026-10-20,https://www.osgeo.org,United States of America,Spatialys; Google,Empower everyone with open source geospatial,https://github.com/OSGeo/gdal,95
+ACEsuit/mace,ACEsuit,,none,academic,yes,Python,1392,bench-in-ci,2026-10-20,,,University of Cambridge,,https://github.com/ACEsuit/mace,94.6
+blackjax-devs/blackjax,blackjax-devs,Blackjax,none,academic,yes,Python,1135,bench-in-ci,2026-10-08,,,.txt; rekursiv-ai; Environmental Change Institute at the University of Oxford,,https://github.com/blackjax-devs/blackjax,93.6
+tensorflow/io,tensorflow,,none,academic,yes,C++,740,bench-in-ci,2026-06-25,http://www.tensorflow.org,,Red Hat; Stanford,,https://github.com/tensorflow/io,86.6
+live-image-tracking-tools/traccuracy,live-image-tracking-tools,,none,academic,yes,Python,42,bench-in-ci,2026-10-19,,,HHMI Janelia Research Campus,,https://github.com/live-image-tracking-tools/traccuracy,77.9
+SentinelOps-CI/provability-fabric,SentinelOps-CI,SentinelOps,none,academic,yes,Python,13,bench-in-ci,2026-10-20,https://www.sentinelops.world/,United States of America,Stanford,SentinelOps ❤️ Open Source,https://github.com/SentinelOps-CI/provability-fabric,72.3
+blockchain-data-standards/manifesto,blockchain-data-standards,,none,foundation,yes,Go,20,bench-in-ci,2026-10-21,https://t.me/blockchain_data_standards,,erpc; eRPC; Xendit,A working group that aims to unify Blockchain Data delivery efforts.,https://github.com/blockchain-data-standards/manifesto,69.3
+KempnerInstitute/NodeLens,KempnerInstitute,Kempner Institute ,none,academic,yes,Python,2,bench-in-ci,2026-07-16,https://www.harvard.edu/kempner-institute/,United States of America,University College London,Kempner Institute for the Study of Natural and Artificial Intelligence at Harvard University,https://github.com/KempnerInstitute/NodeLens,63.3
+honojs/hono,honojs,Hono,none,academic,no,TypeScript,32610,mitata,2026-10-17,https://hono.dev,,cloudflare @voidzero-dev; TaaaS; High School Student,Web Framework built on Web Standards,https://github.com/honojs/hono,75
+NVlabs/WarpConvNet,NVlabs,NVIDIA Research Projects,none,academic,no,Python,231,pytest-benchmark,2026-10-17,http://research.nvidia.com,,NVIDIA; Programmer @ STRÖER; POSTECH Institute of AI,,https://github.com/NVlabs/WarpConvNet,66.0
+gbionics/jaxsim,gbionics,Generative Bionics,none,academic,no,Python,204,pytest-benchmark,2026-10-05,https://gbionics.ai/,Italy,Generative Bionics; Robotics and AI Institute; Italian Institute of Technology,Amplifying humans,https://github.com/gbionics/jaxsim,65.4
+icbi-lab/infercnvpy,icbi-lab,ICBI ,none,academic,no,Python,199,pytest-benchmark,2026-10-19,https://icbi.i-med.ac.at/,"Innsbruck, Austria",Boehringer Ingelheim; Genevia Technologies Oy,Institute of Bioinformatics @ Medical University of Innsbruck,https://github.com/icbi-lab/infercnvpy,65.3
+apache/datasketches-rust,apache,The Apache Software Foundation,none,foundation,no,Rust,134,divan,2026-10-20,https://www.apache.org/,,scopedb; Datadog @apache; Amazon,,https://github.com/apache/datasketches-rust,63.4
+pyapp-kit/psygnal,pyapp-kit,pyapp-kit,none,academic,no,Python,132,pytest-benchmark,2026-10-06,,,Harvard Medical School,A collection of tools that aim to make creating applications in Python easier and more pythonic,https://github.com/pyapp-kit/psygnal,63.3
+bamler-lab/constriction,bamler-lab,,none,academic,no,Rust,111,criterion,2026-07-17,,"Tuebingen, Germany",,"Research group of Prof. Bamler at University of Tuebingen, Germany.",https://github.com/bamler-lab/constriction,62.5
+swarmauri/swarmauri-sdk,swarmauri,swarmauri,none,academic,no,Python,104,pytest-benchmark,2026-08-12,https://swarmauri.com,United States of America,swarmauri; Holberton School,,https://github.com/swarmauri/swarmauri-sdk,62.2
+GalacticDynamics/unxt,GalacticDynamics,GalacticDynamics,none,academic,no,Python,69,pytest-benchmark,2026-10-20,,,MIT,Galactic Dynamics,https://github.com/GalacticDynamics/unxt,60.2
+mila-iqia/ResearchTemplate,mila-iqia,Mila,none,academic,no,Python,54,pytest-benchmark,2026-05-06,https://mila.quebec/,,Mila - Quebec Artificial Intelligence Institute @mila-iqia; McGill University/Mila,Quebec Artificial Intelligence Institute,https://github.com/mila-iqia/ResearchTemplate,59.1
+Warthunder-Open-Source-Foundation/wt_blk,Warthunder-Open-Source-Foundation,Warthunder-Open-Source-Foundation,none,foundation,no,Rust,16,divan,2026-06-22,wt.flareflo.dev,Germany,,A collection of free and open tools designed for the game War Thunder,https://github.com/Warthunder-Open-Source-Foundation/wt_blk,53.2
+worldfnd/BitZ,worldfnd,World Foundation,none,foundation,no,Rust,5,divan,2026-10-19,https://world.org,,,,https://github.com/worldfnd/BitZ,47.7
+datasig-ac-uk/roughpy-jax,datasig-ac-uk,DataSig,none,academic,no,Python,4,pytest-benchmark,2026-10-19,https://datasig.web.ox.ac.uk/,,"University of Oxford; OxRSE, Oxford University",A rough path between mathematics and data science,https://github.com/datasig-ac-uk/roughpy-jax,46.6
+BasisResearch/wasserstein-residuals,BasisResearch,Basis Research Institute,none,academic,no,Python,2,pytest-benchmark,2026-07-21,basis.ai,,,Basis builds reasoning engines that advance society's ability to solve intractable problems,https://github.com/BasisResearch/wasserstein-residuals,43.3
+Beneficial-AI-Foundation/libsignal_focus_dalek_lite,Beneficial-AI-Foundation,Beneficial AI Foundation,none,foundation,no,Rust,0,criterion,2026-09-22,https://www.beneficialaifoundation.org/,,,AI Safety + Formal Verification,https://github.com/Beneficial-AI-Foundation/libsignal_focus_dalek_lite,40.0
+ProjectASAP/sketch-bench,ProjectASAP,,none,academic,no,Rust,0,criterion,2026-10-21,,,"University of Maryland, College Park",,https://github.com/ProjectASAP/sketch-bench,40.0
+kivy-school/kivy2x,kivy-school,Kivy School,none,academic,no,Python,0,pytest-benchmark,2026-10-07,https://kivyschool.com/,,Novfensec Inc.,Join on a programming journey with Kivy School and learn how to program cross-platform applications for Androi,https://github.com/kivy-school/kivy2x,40.0
+gumyr/build123d,gumyr,,personal,personal account,yes,Python,3476,bench-in-ci,2026-10-20,,,,,https://github.com/gumyr/build123d,69.0
+Tong89/smartNode,Tong89,,personal,personal account,yes,Python,1755,bench-in-ci,2026-06-02,,,,,https://github.com/Tong89/smartNode,65.7
+jab/bidict,jab,,personal,personal account,yes,Python,1588,bench-in-ci,2026-10-05,,,,,https://github.com/jab/bidict,65.2
+thinh-vu/vnstock,thinh-vu,,personal,personal account,yes,Python,1418,bench-in-ci,2026-10-13,,,,,https://github.com/thinh-vu/vnstock,64.7
+wannesm/dtaidistance,wannesm,,personal,personal account,yes,Python,1248,bench-in-ci,2026-10-07,,,,,https://github.com/wannesm/dtaidistance,64.1
+ra1nty/DXcam,ra1nty,,personal,personal account,yes,Python,808,bench-in-ci|pytest-benchmark,2026-09-23,,,,,https://github.com/ra1nty/DXcam,62.0
+lebrice/SimpleParsing,lebrice,,personal,personal account,yes,Python,549,bench-in-ci,2026-08-16,,,,,https://github.com/lebrice/SimpleParsing,60.1
+jannikmi/timezonefinder,jannikmi,,personal,personal account,yes,Python,541,bench-in-ci,2026-10-20,,,,,https://github.com/jannikmi/timezonefinder,60.1
+SHAdd0WTAka/Zen-Ai-Pentest,SHAdd0WTAka,,personal,personal account,yes,Python,475,bench-in-ci,2026-10-19,,,,,https://github.com/SHAdd0WTAka/Zen-Ai-Pentest,59.4
+monocongo/climate_indices,monocongo,,personal,personal account,yes,Python,452,bench-in-ci,2026-10-21,,,,,https://github.com/monocongo/climate_indices,59.2
+noib3/crop,noib3,,personal,personal account,yes,Rust,320,bench-in-ci,2026-08-23,,,,,https://github.com/noib3/crop,57.6
+cool-japan/scirs,cool-japan,,personal,personal account,yes,Rust,300,bench-in-ci,2026-10-08,,,,,https://github.com/cool-japan/scirs,57.2
+vprusso/toqito,vprusso,,personal,personal account,yes,Python,292,bench-in-ci,2026-10-19,,,,,https://github.com/vprusso/toqito,57.1
+bluss/matrixmultiply,bluss,,personal,personal account,yes,Rust,271,bench-in-ci,2026-07-14,,,,,https://github.com/bluss/matrixmultiply,56.8
+Yvictor/polars_ta_extension,Yvictor,,personal,personal account,yes,Rust,257,bench-in-ci,2026-10-18,,,,,https://github.com/Yvictor/polars_ta_extension,56.5
+ruvnet/daa,ruvnet,,personal,personal account,yes,Rust,255,bench-in-ci,2026-10-10,,,,,https://github.com/ruvnet/daa,56.5
+3axap4eHko/prmt,3axap4eHko,,personal,personal account,yes,Rust,251,bench-in-ci,2026-07-22,,,,,https://github.com/3axap4eHko/prmt,56.4
+untitaker/hyperlink,untitaker,,personal,personal account,yes,Rust,229,bench-in-ci,2026-07-30,,,,,https://github.com/untitaker/hyperlink,56.0
+raaymax/lazytail,raaymax,,personal,personal account,yes,Rust,223,bench-in-ci,2026-10-11,,,,,https://github.com/raaymax/lazytail,55.8
+wmaslonek/guardian-db,wmaslonek,,personal,personal account,yes,Rust,215,bench-in-ci,2026-08-04,,,,,https://github.com/wmaslonek/guardian-db,55.7
+kayjan/bigtree,kayjan,,personal,personal account,yes,Python,214,bench-in-ci,2026-10-03,,,,,https://github.com/kayjan/bigtree,55.6
+bzsanti/oxidizePdf,bzsanti,,personal,personal account,yes,Rust,193,bench-in-ci,2026-10-20,,,,,https://github.com/bzsanti/oxidizePdf,55.1
+andylokandy/simsearch,andylokandy,,personal,personal account,yes,Rust,190,bench-in-ci|divan,2026-05-06,,,,,https://github.com/andylokandy/simsearch,55.1
+SkBlaz/py3plex,SkBlaz,,personal,personal account,yes,Python,189,bench-in-ci,2026-10-21,,,,,https://github.com/SkBlaz/py3plex,55.0
+fhightower/ioc-finder,fhightower,,personal,personal account,yes,Python,184,bench-in-ci,2026-10-18,,,,,https://github.com/fhightower/ioc-finder,54.9
+nickbabcock/highway-rs,nickbabcock,,personal,personal account,yes,Rust,184,bench-in-ci,2026-07-25,,,,,https://github.com/nickbabcock/highway-rs,54.9
+SpriteOvO/spdlog-rs,SpriteOvO,,personal,personal account,yes,Rust,170,bench-in-ci,2026-08-29,,,,,https://github.com/SpriteOvO/spdlog-rs,54.5
+jack-laverty/arinc424,jack-laverty,,personal,personal account,yes,Python,101,bench-in-ci,2026-04-28,,,,,https://github.com/jack-laverty/arinc424,52.0
+omarmhaimdat/pepe,omarmhaimdat,,personal,personal account,yes,Rust,97,bench-in-ci,2026-10-20,,,,,https://github.com/omarmhaimdat/pepe,51.9
+ruvnet/sublinear-time-solver,ruvnet,,personal,personal account,yes,Rust,91,bench-in-ci,2026-10-10,,,,,https://github.com/ruvnet/sublinear-time-solver,51.5
+isala404/forge,isala404,,personal,personal account,yes,Rust,85,bench-in-ci,2026-09-16,,,,,https://github.com/isala404/forge,51.2
+nickbabcock/bitter,nickbabcock,,personal,personal account,yes,Rust,85,bench-in-ci,2026-06-26,,,,,https://github.com/nickbabcock/bitter,51.2
+ryaker/SparrowDB,ryaker,,personal,personal account,yes,Rust,82,bench-in-ci,2026-10-09,,,,,https://github.com/ryaker/SparrowDB,51.1
+MathisWellmann/sliding_features-rs,MathisWellmann,,personal,personal account,yes,Rust,80,bench-in-ci,2026-10-12,,,,,https://github.com/MathisWellmann/sliding_features-rs,50.9
+gauteh/hidefix,gauteh,,personal,personal account,yes,Rust,66,bench-in-ci|divan,2026-07-02,,,,,https://github.com/gauteh/hidefix,50.0
+cool-japan/oxiz,cool-japan,,personal,personal account,yes,Rust,60,bench-in-ci,2026-10-08,,,,,https://github.com/cool-japan/oxiz,49.6
+gauteh/sfy,gauteh,,personal,personal account,yes,Rust,60,bench-in-ci,2026-10-11,,,,,https://github.com/gauteh/sfy,49.6
+jcreekmore/pem-rs,jcreekmore,,personal,personal account,yes,Rust,58,bench-in-ci,2026-07-28,,,,,https://github.com/jcreekmore/pem-rs,49.4
+TimoLassmann/kalign,TimoLassmann,,personal,personal account,yes,C,162,bench-in-ci,2026-07-22,,,,,https://github.com/TimoLassmann/kalign,49.3
+PSeitz/binggan,PSeitz,,personal,personal account,yes,Rust,56,bench-in-ci,2026-07-25,,,,,https://github.com/PSeitz/binggan,49.2
+DonsetPG/graph-physics,DonsetPG,,personal,personal account,yes,Python,53,bench-in-ci,2026-08-05,,,,,https://github.com/DonsetPG/graph-physics,49.0
+cesarb/clear_on_drop,cesarb,,personal,personal account,yes,Rust,52,bench-in-ci,2026-09-17,,,,,https://github.com/cesarb/clear_on_drop,48.9
+ruvnet/helix,ruvnet,,personal,personal account,yes,Rust,51,bench-in-ci,2026-10-10,,,,,https://github.com/ruvnet/helix,48.8
+2alf/Heimdall,2alf,,personal,personal account,yes,Rust,46,bench-in-ci,2026-07-11,,,,,https://github.com/2alf/Heimdall,48.3
+cool-japan/oxifft,cool-japan,,personal,personal account,yes,Rust,46,bench-in-ci,2026-08-13,,,,,https://github.com/cool-japan/oxifft,48.3
+danielcamposramos/Knowledge3D,danielcamposramos,,personal,personal account,yes,Python,39,bench-in-ci,2026-10-19,,,,,https://github.com/danielcamposramos/Knowledge3D,47.5
+ghreprimand/odytty,ghreprimand,,personal,personal account,yes,Rust,39,bench-in-ci,2026-10-20,,,,,https://github.com/ghreprimand/odytty,47.5
+xav-db/range-cache,xav-db,,personal,personal account,yes,Rust,33,bench-in-ci,2026-08-23,,,,,https://github.com/xav-db/range-cache,46.7
+cool-japan/oxiphysics,cool-japan,,personal,personal account,yes,Rust,32,bench-in-ci,2026-10-19,,,,,https://github.com/cool-japan/oxiphysics,46.6
+murphsicles/zeta,murphsicles,,personal,personal account,yes,C,86,bench-in-ci,2026-06-16,,,,,https://github.com/murphsicles/zeta,46.3
+zircote/subcog,zircote,,personal,personal account,yes,Rust,29,bench-in-ci,2026-08-03,,,,,https://github.com/zircote/subcog,46.1
+stukenov/rav2d,stukenov,,personal,personal account,yes,Rust,20,bench-in-ci,2026-10-08,,,,,https://github.com/stukenov/rav2d,44.3
+cool-japan/sklears,cool-japan,,personal,personal account,yes,Rust,18,bench-in-ci,2026-09-14,,,,,https://github.com/cool-japan/sklears,43.8
+wada314/puroro,wada314,,personal,personal account,yes,Rust,18,bench-in-ci,2026-10-20,,,,,https://github.com/wada314/puroro,43.8
+cool-japan/oxigrid,cool-japan,,personal,personal account,yes,Rust,16,bench-in-ci,2026-07-03,,,,,https://github.com/cool-japan/oxigrid,43.2
+cool-japan/tenflowers,cool-japan,,personal,personal account,yes,Rust,16,bench-in-ci,2026-09-12,,,,,https://github.com/cool-japan/tenflowers,43.2
+rezacute/kincir,rezacute,,personal,personal account,yes,Rust,16,bench-in-ci,2026-06-21,,,,,https://github.com/rezacute/kincir,43.2
+txjmb/jsonata-core,txjmb,,personal,personal account,yes,Rust,11,bench-in-ci,2026-10-20,,,,,https://github.com/txjmb/jsonata-core,41.5
+cool-japan/kizzasi,cool-japan,,personal,personal account,yes,Rust,9,bench-in-ci,2026-08-31,,,,,https://github.com/cool-japan/kizzasi,40.5
+nzy1997/rust-qec,nzy1997,,personal,personal account,yes,Rust,9,bench-in-ci,2026-10-21,,,,,https://github.com/nzy1997/rust-qec,40.5
+0xB10C/mainnet-observer,0xB10C,,personal,personal account,yes,JavaScript,25,bench-in-ci,2026-09-12,,,,,https://github.com/0xB10C/mainnet-observer,40.4
+alexwest1981/sonix,alexwest1981,,personal,personal account,yes,Rust,8,bench-in-ci,2026-09-28,,,,,https://github.com/alexwest1981/sonix,39.9
+bvolpato/ivygrep,bvolpato,,personal,personal account,yes,Rust,7,bench-in-ci,2026-10-21,,,,,https://github.com/bvolpato/ivygrep,39.3
+jeresoftx/rust-system-design,jeresoftx,,personal,personal account,yes,Rust,7,bench-in-ci,2026-07-21,,,,,https://github.com/jeresoftx/rust-system-design,39.3
+0x00F6/libmaxminddb-rs,0x00F6,,personal,personal account,yes,Rust,5,bench-in-ci,2026-10-06,,,,,https://github.com/0x00F6/libmaxminddb-rs,37.7
+berquist/boys,berquist,,personal,personal account,yes,Rust,5,bench-in-ci,2026-10-21,,,,,https://github.com/berquist/boys,37.7
+rmcgibbo/ropen,rmcgibbo,,personal,personal account,yes,Rust,5,bench-in-ci,2026-10-18,,,,,https://github.com/rmcgibbo/ropen,37.7
+moeyensj/difi,moeyensj,,personal,personal account,yes,Rust,4,bench-in-ci,2026-05-21,,,,,https://github.com/moeyensj/difi,36.6
+sneivandt/dotfiles,sneivandt,,personal,personal account,yes,Rust,4,bench-in-ci,2026-10-20,,,,,https://github.com/sneivandt/dotfiles,36.6
+joaquinbejar/ChainView,joaquinbejar,,personal,personal account,yes,Rust,3,bench-in-ci,2026-10-10,,,,,https://github.com/joaquinbejar/ChainView,35.2
+jskoiz/saneyaml,jskoiz,,personal,personal account,yes,Rust,3,bench-in-ci,2026-08-21,,,,,https://github.com/jskoiz/saneyaml,35.2
+HSPK/expr_tracker,HSPK,,personal,personal account,yes,Python,2,bench-in-ci,2026-10-17,,,,,https://github.com/HSPK/expr_tracker,33.3
+SynapticFour/gatk-rs,SynapticFour,,personal,personal account,yes,Rust,2,bench-in-ci,2026-10-19,,,,,https://github.com/SynapticFour/gatk-rs,33.3
+georgestephenson/beck,georgestephenson,,personal,personal account,yes,Rust,2,bench-in-ci,2026-09-13,,,,,https://github.com/georgestephenson/beck,33.3
+lopatnov/conduit,lopatnov,,personal,personal account,yes,Rust,2,bench-in-ci,2026-10-19,,,,,https://github.com/lopatnov/conduit,33.3
+w0wl0lxd/n00n,w0wl0lxd,,personal,personal account,yes,Rust,2,bench-in-ci,2026-10-17,,,,,https://github.com/w0wl0lxd/n00n,33.3
+EDM115/monorepo-hash,EDM115,,personal,personal account,yes,TypeScript,5,bench-in-ci,2026-09-20,,,,,https://github.com/EDM115/monorepo-hash,32.7
+MachineLearning-Nerd/vektor,MachineLearning-Nerd,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-03,,,,,https://github.com/MachineLearning-Nerd/vektor,30.0
+aburan28/crypto,aburan28,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-21,,,,,https://github.com/aburan28/crypto,30.0
+andrewgazelka/bvh-data,andrewgazelka,,personal,personal account,yes,Rust,0,bench-in-ci,2026-07-27,,,,,https://github.com/andrewgazelka/bvh-data,30.0
+dill-lk/TensorCrab,dill-lk,,personal,personal account,yes,Rust,1,bench-in-ci,2026-05-09,,,,,https://github.com/dill-lk/TensorCrab,30.0
+gifnksm/numelace,gifnksm,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-20,,,,,https://github.com/gifnksm/numelace,30.0
+keithyin/sparcrs,keithyin,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-19,,,,,https://github.com/keithyin/sparcrs,30.0
+khvedela/RANterra,khvedela,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-11,,,,,https://github.com/khvedela/RANterra,30.0
+kutluhangil/QuotaDeck,kutluhangil,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-19,,,,,https://github.com/kutluhangil/QuotaDeck,30.0
+leroyguillaume/langbench,leroyguillaume,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-10,,,,,https://github.com/leroyguillaume/langbench,30.0
+luofang34/MAVRouter,luofang34,,personal,personal account,yes,Rust,0,bench-in-ci,2026-08-06,,,,,https://github.com/luofang34/MAVRouter,30.0
+masahiroyecon1997dev/econometricsmodels,masahiroyecon1997dev,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-19,,,,,https://github.com/masahiroyecon1997dev/econometricsmodels,30.0
+mc5eamus/rust-compression-lib,mc5eamus,,personal,personal account,yes,Rust,0,bench-in-ci,2026-05-06,,,,,https://github.com/mc5eamus/rust-compression-lib,30.0
+mintiti/alpharat,mintiti,,personal,personal account,yes,Rust,0,bench-in-ci,2026-09-28,,,,,https://github.com/mintiti/alpharat,30.0
+pierce403/rmpeg,pierce403,,personal,personal account,yes,Rust,1,bench-in-ci,2026-10-15,,,,,https://github.com/pierce403/rmpeg,30.0
+pinnnthreetriples/StylistTG,pinnnthreetriples,,personal,personal account,yes,Python,0,bench-in-ci,2026-09-11,,,,,https://github.com/pinnnthreetriples/StylistTG,30.0
+ppigazzini/valgebra,ppigazzini,,personal,personal account,yes,Rust,0,bench-in-ci,2026-10-21,,,,,https://github.com/ppigazzini/valgebra,30.0
+rgnv/rs-udp-sender,rgnv,,personal,personal account,yes,Rust,0,bench-in-ci,2026-07-24,,,,,https://github.com/rgnv/rs-udp-sender,30.0
+saiKasi0/tipler,saiKasi0,,personal,personal account,yes,Rust,0,bench-in-ci,2026-09-18,,,,,https://github.com/saiKasi0/tipler,30.0
+sauravsingla/OligoArk,sauravsingla,,personal,personal account,yes,Python,0,bench-in-ci,2026-10-11,,,,,https://github.com/sauravsingla/OligoArk,30.0
+somehowchris/tika-indra-ocr-client,somehowchris,,personal,personal account,yes,Python,0,bench-in-ci,2026-10-20,,,,,https://github.com/somehowchris/tika-indra-ocr-client,30.0
+MapMetrics/mapmetrics-native-sdk,MapMetrics,,personal,personal account,yes,C++,0,bench-in-ci,2026-10-19,,,,,https://github.com/MapMetrics/mapmetrics-native-sdk,25.0
+StanislavMal/apex-ecs,StanislavMal,,personal,personal account,yes,C,0,bench-in-ci,2026-10-16,,,,,https://github.com/StanislavMal/apex-ecs,25.0
+benjaminRomano/codex-session-viewer,benjaminRomano,,personal,personal account,yes,TypeScript,0,bench-in-ci,2026-10-14,,,,,https://github.com/benjaminRomano/codex-session-viewer,25.0
+entwinedent/A_Low_Latency_Limit_Order_Book_LOB_C_RUST_GO_PYTHON,entwinedent,,personal,personal account,yes,C++,0,bench-in-ci,2026-08-04,,,,,https://github.com/entwinedent/A_Low_Latency_Limit_Order_Book_LOB_C_RUST_GO_PYTHON,25.0
+itsrohan-lang/EcoRoute-AI,itsrohan-lang,,personal,personal account,yes,TypeScript,1,bench-in-ci,2026-05-18,,,,,https://github.com/itsrohan-lang/EcoRoute-AI,25.0
+glommer/pgmicro,glommer,,personal,personal account,no,Rust,1205,criterion|divan|mitata,2026-08-08,,,,,https://github.com/glommer/pgmicro,59.9
+ruvnet/RuVector,ruvnet,,personal,personal account,no,Rust,4603,criterion,2026-10-20,,,,,https://github.com/ruvnet/RuVector,50
+sharkdp/pastel,sharkdp,,personal,personal account,no,Rust,6520,criterion,2026-05-01,,,,,https://github.com/sharkdp/pastel,50
+kane50613/takumi,kane50613,,personal,personal account,no,Rust,3135,mitata,2026-10-21,,,,,https://github.com/kane50613/takumi,48.5
+trishume/syntect,trishume,,personal,personal account,no,Rust,2446,criterion,2026-04-28,,,,,https://github.com/trishume/syntect,47.3
+ariebovenberg/whenever,ariebovenberg,,personal,personal account,no,Python,2411,criterion,2026-10-19,,,,,https://github.com/ariebovenberg/whenever,47.2
+cessen/ropey,cessen,,personal,personal account,no,Rust,1681,criterion,2026-09-12,,,,,https://github.com/cessen/ropey,45.5
+mxsm/rocketmq-rust,mxsm,,personal,personal account,no,Rust,1528,criterion,2026-10-20,,,,,https://github.com/mxsm/rocketmq-rust,45.0
+williamngan/pts,williamngan,,personal,personal account,no,TypeScript,5355,tinybench,2026-10-16,,,,,https://github.com/williamngan/pts,45
+JedWatson/classnames,JedWatson,,personal,personal account,no,JavaScript,17771,tinybench,2026-10-21,,,,,https://github.com/JedWatson/classnames,45
+colinhacks/zod,colinhacks,,personal,personal account,no,TypeScript,44165,mitata,2026-10-19,,,,,https://github.com/colinhacks/zod,45
+can1357/oh-my-pi,can1357,,personal,personal account,no,TypeScript,36081,mitata,2026-10-21,,,,,https://github.com/can1357/oh-my-pi,45
+SukkaW/Surge,SukkaW,,personal,personal account,no,TypeScript,4581,mitata,2026-10-20,,,,,https://github.com/SukkaW/Surge,45
+jeffijoe/awilix,jeffijoe,,personal,personal account,no,TypeScript,4244,tinybench,2026-10-12,,,,,https://github.com/jeffijoe/awilix,44.9
+nvzqz/divan,nvzqz,,personal,personal account,no,Rust,1459,divan,2026-07-19,,,,,https://github.com/nvzqz/divan,44.8
+AsyncBanana/microdiff,AsyncBanana,,personal,personal account,no,JavaScript,3875,mitata,2026-08-02,,,,,https://github.com/AsyncBanana/microdiff,44.5
+haydenbleasel/ultracite,haydenbleasel,,personal,personal account,no,TypeScript,3348,mitata,2026-10-20,,,,,https://github.com/haydenbleasel/ultracite,43.8
+yume-chan/ya-webadb,yume-chan,,personal,personal account,no,TypeScript,3254,tinybench,2026-10-09,,,,,https://github.com/yume-chan/ya-webadb,43.6
+tanghaibao/jcvi,tanghaibao,,personal,personal account,no,Python,934,pytest-benchmark,2026-09-19,,,,,https://github.com/tanghaibao/jcvi,42.7
+josdejong/jsonrepair,josdejong,,personal,personal account,no,TypeScript,2409,tinybench,2026-07-03,,,,,https://github.com/josdejong/jsonrepair,42.2
+Skxxtz/sherlock,Skxxtz,,personal,personal account,no,Rust,748,criterion,2026-04-25,,,,,https://github.com/Skxxtz/sherlock,41.6
+sindresorhus/on-change,sindresorhus,,personal,personal account,no,JavaScript,2031,tinybench,2026-09-18,,,,,https://github.com/sindresorhus/on-change,41.4
+unadlib/mutative,unadlib,,personal,personal account,no,TypeScript,1999,mitata,2026-10-14,,,,,https://github.com/unadlib/mutative,41.3
+dahlia/logtape,dahlia,,personal,personal account,no,TypeScript,2014,mitata,2026-10-19,,,,,https://github.com/dahlia/logtape,41.3
+omgovich/colord,omgovich,,personal,personal account,no,TypeScript,1892,benchmark.js,2026-09-01,,,,,https://github.com/omgovich/colord,41.0
+ai/nanoevents,ai,,personal,personal account,no,TypeScript,1634,tinybench,2026-07-22,,,,,https://github.com/ai/nanoevents,40.3
+miurahr/py7zr,miurahr,,personal,personal account,no,Python,558,pytest-benchmark,2026-10-12,,,,,https://github.com/miurahr/py7zr,40.2
+erikbrinkman/d3-dag,erikbrinkman,,personal,personal account,no,TypeScript,1527,mitata,2026-10-01,,,,,https://github.com/erikbrinkman/d3-dag,40.0
+jeremydaly/lambda-api,jeremydaly,,personal,personal account,no,JavaScript,1471,mitata,2026-10-21,,,,,https://github.com/jeremydaly/lambda-api,39.8
+chearon/dropflow,chearon,,personal,personal account,no,TypeScript,1365,mitata,2026-10-20,,,,,https://github.com/chearon/dropflow,39.5
+arb/celebrate,arb,,personal,personal account,no,JavaScript,1347,tinybench,2026-09-29,,,,,https://github.com/arb/celebrate,39.4
+al8n/stretto,al8n,,personal,personal account,no,Rust,434,criterion,2026-05-03,,,,,https://github.com/al8n/stretto,39.0
+aidenybai/cnfast,aidenybai,,personal,personal account,no,TypeScript,1180,tinybench,2026-09-01,,,,,https://github.com/aidenybai/cnfast,38.8
+TorchDSP/torchsig,TorchDSP,,personal,personal account,no,Python,384,pytest-benchmark,2026-09-02,,,,,https://github.com/TorchDSP/torchsig,38.4
+mauriciopoppe/function-plot,mauriciopoppe,,personal,personal account,no,JavaScript,1066,tinybench,2026-10-11,,,,,https://github.com/mauriciopoppe/function-plot,38.3
+RafaelGSS/bench-node,RafaelGSS,,personal,personal account,no,JavaScript,193,mitata|tinybench,2026-10-11,,,,,https://github.com/RafaelGSS/bench-node,38.1
+nartc/mapper,nartc,,personal,personal account,no,TypeScript,1007,mitata,2026-09-11,,,,,https://github.com/nartc/mapper,38.0
+athola/claude-night-market,athola,,personal,personal account,no,Python,342,pytest-benchmark,2026-10-16,,,,,https://github.com/athola/claude-night-market,37.9
+lemire/Code-used-on-Daniel-Lemire-s-blog,lemire,,personal,personal account,no,C++,967,mitata,2026-10-17,,,,,https://github.com/lemire/Code-used-on-Daniel-Lemire-s-blog,37.8
+Puiching-Memory/TAAC_2026,Puiching-Memory,,personal,personal account,no,Python,332,pytest-benchmark,2026-09-05,,,,,https://github.com/Puiching-Memory/TAAC_2026,37.7
+deliro/moka-py,deliro,,personal,personal account,no,Python,313,pytest-benchmark,2026-10-15,,,,,https://github.com/deliro/moka-py,37.5
+agronholm/cbor2,agronholm,,personal,personal account,no,Rust,313,pytest-benchmark,2026-10-09,,,,,https://github.com/agronholm/cbor2,37.5
+goodmami/wn,goodmami,,personal,personal account,no,Python,304,pytest-benchmark,2026-09-05,,,,,https://github.com/goodmami/wn,37.3
+sindresorhus/dot-prop,sindresorhus,,personal,personal account,no,JavaScript,868,benchmark.js,2026-07-21,,,,,https://github.com/sindresorhus/dot-prop,37.3
+cool-japan/oximedia,cool-japan,,personal,personal account,no,Rust,265,criterion,2026-09-16,,,,,https://github.com/cool-japan/oximedia,36.7
+eboody/statum,eboody,,personal,personal account,no,Rust,260,criterion,2026-08-31,,,,,https://github.com/eboody/statum,36.6
+maksimzayats/diwire,maksimzayats,,personal,personal account,no,Python,254,pytest-benchmark,2026-10-20,,,,,https://github.com/maksimzayats/diwire,36.5
+sindresorhus/leven,sindresorhus,,personal,personal account,no,JavaScript,735,tinybench,2026-09-26,,,,,https://github.com/sindresorhus/leven,36.5
+AstraBert/PdfItDown,AstraBert,,personal,personal account,no,Rust,251,tinybench,2026-07-09,,,,,https://github.com/AstraBert/PdfItDown,36.4
+dtolnay/dissimilar,dtolnay,,personal,personal account,no,Rust,244,criterion,2026-08-08,,,,,https://github.com/dtolnay/dissimilar,36.3
+jvanderberg/markless,jvanderberg,,personal,personal account,no,Rust,240,criterion,2026-05-17,,,,,https://github.com/jvanderberg/markless,36.2
+a-kenji/tui-term,a-kenji,,personal,personal account,no,Rust,232,divan,2026-10-02,,,,,https://github.com/a-kenji/tui-term,36.0
+hulkholden/n64js,hulkholden,,personal,personal account,no,JavaScript,656,mitata,2026-10-20,,,,,https://github.com/hulkholden/n64js,36.0
+consistent-milk12/masstree,consistent-milk12,,personal,personal account,no,Rust,225,divan,2026-08-02,,,,,https://github.com/consistent-milk12/masstree,35.9
+moappi/json2html,moappi,,personal,personal account,no,JavaScript,641,benchmark.js,2026-08-14,,,,,https://github.com/moappi/json2html,35.9
+nol13/fuzzball.js,nol13,,personal,personal account,no,JavaScript,641,benchmark.js,2026-10-20,,,,,https://github.com/nol13/fuzzball.js,35.9
+michaelsproul/rust_radix_trie,michaelsproul,,personal,personal account,no,Rust,221,criterion,2026-08-09,,,,,https://github.com/michaelsproul/rust_radix_trie,35.8
+sindresorhus/strip-json-comments,sindresorhus,,personal,personal account,no,JavaScript,625,benchmark.js,2026-09-18,,,,,https://github.com/sindresorhus/strip-json-comments,35.8
+rezkam/persian,rezkam,,personal,personal account,no,Python,204,pytest-benchmark,2026-10-05,,,,,https://github.com/rezkam/persian,35.4
+tuananh/camaro,tuananh,,personal,personal account,no,C++,581,mitata,2026-09-11,,,,,https://github.com/tuananh/camaro,35.4
+suned/stateless,suned,,personal,personal account,no,Python,198,pytest-benchmark,2026-07-30,,,,,https://github.com/suned/stateless,35.3
+SuperchupuDev/tinyglobby,SuperchupuDev,,personal,personal account,no,TypeScript,548,tinybench,2026-10-16,,,,,https://github.com/SuperchupuDev/tinyglobby,35.1
+mary-ext/atcute,mary-ext,,personal,personal account,no,TypeScript,523,mitata,2026-10-10,,,,,https://github.com/mary-ext/atcute,34.9
+johanhelsing/bevy_pkv,johanhelsing,,personal,personal account,no,Rust,180,criterion,2026-09-17,,,,,https://github.com/johanhelsing/bevy_pkv,34.8
+oxalica/async-lsp,oxalica,,personal,personal account,no,Rust,178,criterion,2026-08-09,,,,,https://github.com/oxalica/async-lsp,34.8
+rexxars/eventsource-parser,rexxars,,personal,personal account,no,TypeScript,514,mitata,2026-10-12,,,,,https://github.com/rexxars/eventsource-parser,34.8
+rutrum/convert-case,rutrum,,personal,personal account,no,Rust,169,criterion,2026-08-27,,,,,https://github.com/rutrum/convert-case,34.5
+josdejong/lossless-json,josdejong,,personal,personal account,no,TypeScript,479,tinybench,2026-10-16,,,,,https://github.com/josdejong/lossless-json,34.5
+kazupon/gunshi,kazupon,,personal,personal account,no,TypeScript,474,mitata,2026-10-21,,,,,https://github.com/kazupon/gunshi,34.4
+nonzzz/vite-bundle-analyzer,nonzzz,,personal,personal account,no,TypeScript,467,mitata,2026-07-13,,,,,https://github.com/nonzzz/vite-bundle-analyzer,34.4
+mrxz/wLipSync,mrxz,,personal,personal account,no,C,86,benchmark.js|mitata,2026-08-06,,,,,https://github.com/mrxz/wLipSync,34.3
+agargaro/instanced-mesh,agargaro,,personal,personal account,no,TypeScript,453,tinybench,2026-10-06,,,,,https://github.com/agargaro/instanced-mesh,34.2
+yezz123/ormdantic,yezz123,,personal,personal account,no,Python,155,pytest-benchmark,2026-10-19,,,,,https://github.com/yezz123/ormdantic,34.1
+ultimaweapon/tsuki,ultimaweapon,,personal,personal account,no,Rust,152,criterion,2026-10-13,,,,,https://github.com/ultimaweapon/tsuki,34.0
+akhundMurad/typeid-python,akhundMurad,,personal,personal account,no,Python,152,pytest-benchmark,2026-08-30,,,,,https://github.com/akhundMurad/typeid-python,34.0
+int08h/roughenough,int08h,,personal,personal account,no,Rust,149,divan,2026-10-18,,,,,https://github.com/int08h/roughenough,33.9
+Trott/slug,Trott,,personal,personal account,no,JavaScript,414,benchmark.js,2026-10-16,,,,,https://github.com/Trott/slug,33.8
+charpeni/react-native-url-polyfill,charpeni,,personal,personal account,no,JavaScript,413,benchmark.js,2026-10-14,,,,,https://github.com/charpeni/react-native-url-polyfill,33.8
+oozcitak/xmlbuilder2,oozcitak,,personal,personal account,no,TypeScript,409,mitata,2026-05-08,,,,,https://github.com/oozcitak/xmlbuilder2,33.7
+MaxOhn/rosu-pp,MaxOhn,,personal,personal account,no,Rust,141,divan,2026-09-22,,,,,https://github.com/MaxOhn/rosu-pp,33.6
+RSamaium/CanvasEngine,RSamaium,,personal,personal account,no,TypeScript,401,tinybench,2026-10-18,,,,,https://github.com/RSamaium/CanvasEngine,33.6
+fb55/entities,fb55,,personal,personal account,no,TypeScript,388,tinybench,2026-10-19,,,,,https://github.com/fb55/entities,33.5
+NthTensor/Forte,NthTensor,,personal,personal account,no,Rust,134,divan,2026-07-13,,,,,https://github.com/NthTensor/Forte,33.4
+almeidazs/better-drizzle,almeidazs,,personal,personal account,no,TypeScript,378,mitata,2026-10-19,,,,,https://github.com/almeidazs/better-drizzle,33.4
+ashvardanian/less_slow.py,ashvardanian,,personal,personal account,no,Python,128,pytest-benchmark,2026-07-29,,,,,https://github.com/ashvardanian/less_slow.py,33.2
+milesgranger/cramjam,milesgranger,,personal,personal account,no,Rust,127,pytest-benchmark,2026-10-13,,,,,https://github.com/milesgranger/cramjam,33.1
+Rolv-Apneseth/clipvault,Rolv-Apneseth,,personal,personal account,no,Rust,120,divan,2026-10-11,,,,,https://github.com/Rolv-Apneseth/clipvault,32.9
+jacob-ebey/turbo-stream,jacob-ebey,,personal,personal account,no,TypeScript,324,mitata,2026-08-19,,,,,https://github.com/jacob-ebey/turbo-stream,32.6
+RebeccaStevens/deepmerge-ts,RebeccaStevens,,personal,personal account,no,TypeScript,308,tinybench,2026-09-03,,,,,https://github.com/RebeccaStevens/deepmerge-ts,32.4
+dholroyd/h264-reader,dholroyd,,personal,personal account,no,Rust,96,criterion,2026-10-05,,,,,https://github.com/dholroyd/h264-reader,31.8
+polazarus/hipstr,polazarus,,personal,personal account,no,Rust,96,divan,2026-06-17,,,,,https://github.com/polazarus/hipstr,31.8
+Brooooooklyn/webcodecs-node,Brooooooklyn,,personal,personal account,no,Rust,96,tinybench,2026-10-21,,,,,https://github.com/Brooooooklyn/webcodecs-node,31.8
+dnsl48/fraction,dnsl48,,personal,personal account,no,Rust,93,criterion,2026-08-22,,,,,https://github.com/dnsl48/fraction,31.7
+Baukebrenninkmeijer/table-evaluator,Baukebrenninkmeijer,,personal,personal account,no,Python,92,pytest-benchmark,2026-06-05,,,,,https://github.com/Baukebrenninkmeijer/table-evaluator,31.6
+morganlinton/VulcanBench,morganlinton,,personal,personal account,no,Python,92,mitata,2026-10-20,,,,,https://github.com/morganlinton/VulcanBench,31.6
+yize/solarlunar,yize,,personal,personal account,no,JavaScript,247,benchmark.js,2026-06-18,,,,,https://github.com/yize/solarlunar,31.3
+rayriffy/elysia-rate-limit,rayriffy,,personal,personal account,no,TypeScript,239,mitata,2026-08-20,,,,,https://github.com/rayriffy/elysia-rate-limit,31.2
+jdahlstrom/retrofire,jdahlstrom,,personal,personal account,no,Rust,79,divan,2026-08-05,,,,,https://github.com/jdahlstrom/retrofire,30.9
+nyariv/SandboxJS,nyariv,,personal,personal account,no,TypeScript,224,tinybench,2026-08-22,,,,,https://github.com/nyariv/SandboxJS,30.9
+Michael-JB/bm25,Michael-JB,,personal,personal account,no,Rust,78,divan,2026-10-15,,,,,https://github.com/Michael-JB/bm25,30.8
+anitabyte/etsyv3,anitabyte,,personal,personal account,no,Python,77,pytest-benchmark,2026-07-02,,,,,https://github.com/anitabyte/etsyv3,30.8
+FrogSnot/Concryptor,FrogSnot,,personal,personal account,no,Rust,76,criterion,2026-07-13,,,,,https://github.com/FrogSnot/Concryptor,30.7
+Brooooooklyn/snappy,Brooooooklyn,,personal,personal account,no,JavaScript,214,tinybench,2026-10-21,,,,,https://github.com/Brooooooklyn/snappy,30.6
+mad-gooze/fast-blurhash,mad-gooze,,personal,personal account,no,JavaScript,211,benchmark.js,2026-06-19,,,,,https://github.com/mad-gooze/fast-blurhash,30.6
+zaibacu/rita-dsl,zaibacu,,personal,personal account,no,Python,72,pytest-benchmark,2026-10-07,,,,,https://github.com/zaibacu/rita-dsl,30.4
+paulmillr/scure-bip39,paulmillr,,personal,personal account,no,TypeScript,199,benchmark.js,2026-08-31,,,,,https://github.com/paulmillr/scure-bip39,30.3
+rdaum/rart-rs,rdaum,,personal,personal account,no,Rust,68,criterion,2026-08-12,,,,,https://github.com/rdaum/rart-rs,30.2
+adamghill/dj-angles,adamghill,,personal,personal account,no,Python,64,pytest-benchmark,2026-08-02,,,,,https://github.com/adamghill/dj-angles,29.9
+chrisjsewell/markdown-it-pyrs,chrisjsewell,,personal,personal account,no,Rust,65,pytest-benchmark,2026-10-19,,,,,https://github.com/chrisjsewell/markdown-it-pyrs,29.9
+slowli/jwt-compact,slowli,,personal,personal account,no,Rust,62,criterion,2026-10-14,,,,,https://github.com/slowli/jwt-compact,29.7
+furstenheim/is_jsonb_valid,furstenheim,,personal,personal account,no,C,173,benchmark.js,2026-07-14,,,,,https://github.com/furstenheim/is_jsonb_valid,29.6
+manykarim/robotframework-doctestlibrary,manykarim,,personal,personal account,no,Python,58,pytest-benchmark,2026-08-02,,,,,https://github.com/manykarim/robotframework-doctestlibrary,29.4
+fjosw/pyerrors,fjosw,,personal,personal account,no,Python,57,pytest-benchmark,2026-09-07,,,,,https://github.com/fjosw/pyerrors,29.3
+WebReflection/udomdiff,WebReflection,,personal,personal account,no,JavaScript,162,benchmark.js,2026-07-15,,,,,https://github.com/WebReflection/udomdiff,29.3
+sebastienrousseau/bankstatementparser,sebastienrousseau,,personal,personal account,no,Python,56,pytest-benchmark,2026-10-21,,,,,https://github.com/sebastienrousseau/bankstatementparser,29.2
+cool-japan/numrs,cool-japan,,personal,personal account,no,Rust,53,pytest-benchmark,2026-09-12,,,,,https://github.com/cool-japan/numrs,29.0
+hvuhsg/mongolite,hvuhsg,,personal,personal account,no,Python,51,pytest-benchmark,2026-05-22,,,,,https://github.com/hvuhsg/mongolite,28.8
+sean2077/jsonpath-python,sean2077,,personal,personal account,no,Python,50,pytest-benchmark,2026-05-07,,,,,https://github.com/sean2077/jsonpath-python,28.7
+gendx/paralight,gendx,,personal,personal account,no,Rust,49,divan,2026-08-19,,,,,https://github.com/gendx/paralight,28.6
+vmoens/mujoco-torch,vmoens,,personal,personal account,no,Python,49,pytest-benchmark,2026-09-23,,,,,https://github.com/vmoens/mujoco-torch,28.6
+oOo0oOo/leanclient,oOo0oOo,,personal,personal account,no,Python,48,pytest-benchmark,2026-08-19,,,,,https://github.com/oOo0oOo/leanclient,28.5
+drumtorben/polars-ts,drumtorben,,personal,personal account,no,Python,48,pytest-benchmark,2026-10-10,,,,,https://github.com/drumtorben/polars-ts,28.5
+schwehr/noaadata,schwehr,,personal,personal account,no,Python,47,pytest-benchmark,2026-10-01,,,,,https://github.com/schwehr/noaadata,28.4
+moeyensj/thor,moeyensj,,personal,personal account,no,Python,47,pytest-benchmark,2026-05-12,,,,,https://github.com/moeyensj/thor,28.4
+josdejong/csv42,josdejong,,personal,personal account,no,TypeScript,133,benchmark.js,2026-08-20,,,,,https://github.com/josdejong/csv42,28.4
+cool-japan/voirs,cool-japan,,personal,personal account,no,Rust,46,criterion,2026-09-16,,,,,https://github.com/cool-japan/voirs,28.3
+yankouskia/is-incognito-mode,yankouskia,,personal,personal account,no,TypeScript,132,tinybench,2026-09-10,,,,,https://github.com/yankouskia/is-incognito-mode,28.3
+folke/zaly,folke,,personal,personal account,no,TypeScript,130,mitata,2026-10-21,,,,,https://github.com/folke/zaly,28.3
+guggero/bip-schnorr,guggero,,personal,personal account,no,JavaScript,130,benchmark.js,2026-10-18,,,,,https://github.com/guggero/bip-schnorr,28.3
+ozankenangungor/orderbook-replay-lab,ozankenangungor,,personal,personal account,no,Rust,44,criterion,2026-04-29,,,,,https://github.com/ozankenangungor/orderbook-replay-lab,28.1
+bassrehab/triton-kernels,bassrehab,,personal,personal account,no,Python,44,pytest-benchmark,2026-07-22,,,,,https://github.com/bassrehab/triton-kernels,28.1
+wwang721/pyafv,wwang721,,personal,personal account,no,Python,42,pytest-benchmark,2026-09-16,,,,,https://github.com/wwang721/pyafv,27.9
+AytuncYildizli/reprompter,AytuncYildizli,,personal,personal account,no,JavaScript,119,benchmark.js,2026-10-15,,,,,https://github.com/AytuncYildizli/reprompter,27.8
+conradludgate/typed-json,conradludgate,,personal,personal account,no,Rust,41,divan,2026-07-13,,,,,https://github.com/conradludgate/typed-json,27.7
+tiborschneider/prefix-trie,tiborschneider,,personal,personal account,no,Rust,40,criterion,2026-07-24,,,,,https://github.com/tiborschneider/prefix-trie,27.6
+fosskers/nonempty-collections,fosskers,,personal,personal account,no,Rust,40,divan,2026-08-04,,,,,https://github.com/fosskers/nonempty-collections,27.6
+cometkim/unicode-segmenter,cometkim,,personal,personal account,no,JavaScript,113,tinybench,2026-07-29,,,,,https://github.com/cometkim/unicode-segmenter,27.6
+tangentstorm/bex,tangentstorm,,personal,personal account,no,Rust,37,divan,2026-09-27,,,,,https://github.com/tangentstorm/bex,27.3
+rafaelcaricio/qoaudio,rafaelcaricio,,personal,personal account,no,Rust,35,criterion,2026-09-27,,,,,https://github.com/rafaelcaricio/qoaudio,27.0
+cool-japan/oxiarc,cool-japan,,personal,personal account,no,Rust,33,criterion,2026-10-05,,,,,https://github.com/cool-japan/oxiarc,26.7
+plisandro/rasant,plisandro,,personal,personal account,no,Rust,33,divan,2026-10-20,,,,,https://github.com/plisandro/rasant,26.7
+mehcode/wadatsumi,mehcode,,personal,personal account,no,Rust,31,divan,2026-06-15,,,,,https://github.com/mehcode/wadatsumi,26.4
+adamghill/dj-lite-tenant,adamghill,,personal,personal account,no,Python,31,pytest-benchmark,2026-05-20,,,,,https://github.com/adamghill/dj-lite-tenant,26.4
+neophob/wpc-emu,neophob,,personal,personal account,no,JavaScript,89,benchmark.js,2026-09-10,,,,,https://github.com/neophob/wpc-emu,26.4
+xyun92/trilane,xyun92,,personal,personal account,no,Rust,30,divan,2026-10-13,,,,,https://github.com/xyun92/trilane,26.2
+jviereck/regjsparser,jviereck,,personal,personal account,no,JavaScript,84,tinybench,2026-10-20,,,,,https://github.com/jviereck/regjsparser,26.2
+RReverser/wasmbin,RReverser,,personal,personal account,no,Rust,29,criterion,2026-06-06,,,,,https://github.com/RReverser/wasmbin,26.1
+shahradelahi/next-csrf,shahradelahi,,personal,personal account,no,TypeScript,83,tinybench,2026-10-20,,,,,https://github.com/shahradelahi/next-csrf,26.1
+utopyin/effect-orpc,utopyin,,personal,personal account,no,TypeScript,77,tinybench,2026-10-04,,,,,https://github.com/utopyin/effect-orpc,25.8
+5etools-mirror-3/5etools-2014-src,5etools-mirror-3,,personal,personal account,no,JavaScript,78,tinybench,2026-10-14,,,,,https://github.com/5etools-mirror-3/5etools-2014-src,25.8
+viewfly/viewfly,viewfly,,personal,personal account,no,TypeScript,77,tinybench,2026-06-25,,,,,https://github.com/viewfly/viewfly,25.8
+Atrociously/stilts,Atrociously,,personal,personal account,no,Rust,27,divan,2026-08-27,,,,,https://github.com/Atrociously/stilts,25.7
+asamuzaK/domSelector,asamuzaK,,personal,personal account,no,JavaScript,14,mitata|tinybench,2026-10-17,,,,,https://github.com/asamuzaK/domSelector,25.6
+ArthurBernard/Fynance,ArthurBernard,,personal,personal account,no,Python,26,pytest-benchmark,2026-07-13,,,,,https://github.com/ArthurBernard/Fynance,25.6
+childrentime/pareto,childrentime,,personal,personal account,no,TypeScript,73,tinybench,2026-05-06,,,,,https://github.com/childrentime/pareto,25.5
+ShiinaSaku/Hayate,ShiinaSaku,,personal,personal account,no,Rust,25,divan,2026-10-19,,,,,https://github.com/ShiinaSaku/Hayate,25.4
+Marbacj/SQL-Reconciliation-Agent,Marbacj,,personal,personal account,no,Python,24,pytest-benchmark,2026-06-19,,,,,https://github.com/Marbacj/SQL-Reconciliation-Agent,25.2
+wulu007/geetest-bypass,wulu007,,personal,personal account,no,Python,24,pytest-benchmark,2026-10-20,,,,,https://github.com/wulu007/geetest-bypass,25.2
+sharifhsn/wedeo,sharifhsn,,personal,personal account,no,Rust,23,divan,2026-06-20,,,,,https://github.com/sharifhsn/wedeo,25.0
+architehc/selfware,architehc,,personal,personal account,no,Rust,22,criterion,2026-10-16,,,,,https://github.com/architehc/selfware,24.8
+isdaniel/pg-walstream,isdaniel,,personal,personal account,no,Rust,22,criterion,2026-10-20,,,,,https://github.com/isdaniel/pg-walstream,24.8
+femtomc/programmable-vi-pldi-2024,femtomc,,personal,personal account,no,Python,22,pytest-benchmark,2026-07-13,,,,,https://github.com/femtomc/programmable-vi-pldi-2024,24.8
+ezzy1630/Argyph,ezzy1630,,personal,personal account,no,Rust,20,criterion,2026-10-18,,,,,https://github.com/ezzy1630/Argyph,24.3
+FranklinChen/validate-xml-rust,FranklinChen,,personal,personal account,no,Rust,20,divan,2026-08-30,,,,,https://github.com/FranklinChen/validate-xml-rust,24.3
+docxology/template,docxology,,personal,personal account,no,Python,20,pytest-benchmark,2026-10-19,,,,,https://github.com/docxology/template,24.3
+ChristopherMayes/openPMD-beamphysics,ChristopherMayes,,personal,personal account,no,Python,20,pytest-benchmark,2026-10-21,,,,,https://github.com/ChristopherMayes/openPMD-beamphysics,24.3
+mrecachinas/hexhamming,mrecachinas,,personal,personal account,no,Rust,19,pytest-benchmark,2026-09-23,,,,,https://github.com/mrecachinas/hexhamming,24.1
+Dunqing/typack,Dunqing,,personal,personal account,no,TypeScript,55,criterion,2026-06-17,,,,,https://github.com/Dunqing/typack,24.1
+planttheidea/fast-stringify,planttheidea,,personal,personal account,no,TypeScript,53,tinybench,2026-10-16,,,,,https://github.com/planttheidea/fast-stringify,24.0
+bnomei/raymon,bnomei,,personal,personal account,no,Rust,18,divan,2026-07-01,,,,,https://github.com/bnomei/raymon,23.8
+KotlinIsland/basedpython,KotlinIsland,,personal,personal account,no,Rust,17,divan,2026-09-26,,,,,https://github.com/KotlinIsland/basedpython,23.5
+afnanenayet/hashed-permutation,afnanenayet,,personal,personal account,no,Rust,17,divan,2026-08-25,,,,,https://github.com/afnanenayet/hashed-permutation,23.5
+ClementWalter/stark-v,ClementWalter,,personal,personal account,no,Rust,16,divan,2026-08-09,,,,,https://github.com/ClementWalter/stark-v,23.2
+Nagato-Yuzuru/predylogic,Nagato-Yuzuru,,personal,personal account,no,Python,16,pytest-benchmark,2026-09-07,,,,,https://github.com/Nagato-Yuzuru/predylogic,23.2
+jmagly/carbonyl-agent,jmagly,,personal,personal account,no,Python,16,pytest-benchmark,2026-07-31,,,,,https://github.com/jmagly/carbonyl-agent,23.2
+jdidion/beekeeper,jdidion,,personal,personal account,no,Rust,13,divan,2026-07-27,,,,,https://github.com/jdidion/beekeeper,22.3
+SilentHacks/simcord,SilentHacks,,personal,personal account,no,Python,13,pytest-benchmark,2026-10-16,,,,,https://github.com/SilentHacks/simcord,22.3
+MiraboxSpace/StreamDock-Plugins,MiraboxSpace,,personal,personal account,no,C,35,tinybench,2026-09-05,,,,,https://github.com/MiraboxSpace/StreamDock-Plugins,22.0
+cool-japan/optirs,cool-japan,,personal,personal account,no,Rust,12,criterion,2026-09-16,,,,,https://github.com/cool-japan/optirs,21.9
+noamteyssier/bitnuc,noamteyssier,,personal,personal account,no,Rust,12,criterion,2026-09-28,,,,,https://github.com/noamteyssier/bitnuc,21.9
+rec/sproc,rec,,personal,personal account,no,Python,12,pytest-benchmark,2026-10-11,,,,,https://github.com/rec/sproc,21.9
+clbarnes/ncollpyde,clbarnes,,personal,personal account,no,Python,12,pytest-benchmark,2026-10-06,,,,,https://github.com/clbarnes/ncollpyde,21.9
+sandercox/cmake-fmt,sandercox,,personal,personal account,no,Rust,11,criterion,2026-09-21,,,,,https://github.com/sandercox/cmake-fmt,21.5
+vincentmuriithi/kariRS,vincentmuriithi,,personal,personal account,no,Rust,11,criterion,2026-09-29,,,,,https://github.com/vincentmuriithi/kariRS,21.5
+astrve/framekit,astrve,,personal,personal account,no,Python,11,pytest-benchmark,2026-06-15,,,,,https://github.com/astrve/framekit,21.5
+RxAi-Aus/amp,RxAi-Aus,,personal,personal account,no,JavaScript,31,benchmark.js,2026-10-16,,,,,https://github.com/RxAi-Aus/amp,21.4
+jeffreyfriedman/windjammer,jeffreyfriedman,,personal,personal account,no,Rust,10,criterion,2026-10-11,,,,,https://github.com/jeffreyfriedman/windjammer,21.0
+ZenoAFfectionate/WhaleCode,ZenoAFfectionate,,personal,personal account,no,Python,10,pytest-benchmark,2026-08-28,,,,,https://github.com/ZenoAFfectionate/WhaleCode,21.0
+leonitousconforti/the-moby-effect,leonitousconforti,,personal,personal account,no,TypeScript,28,tinybench,2026-10-21,,,,,https://github.com/leonitousconforti/the-moby-effect,20.9
+gilsmt/cache-app,gilsmt,,personal,personal account,no,TypeScript,28,mitata,2026-10-20,,,,,https://github.com/gilsmt/cache-app,20.9
+SGavrl/WfmOxide,SGavrl,,personal,personal account,no,Rust,9,pytest-benchmark,2026-05-16,,,,,https://github.com/SGavrl/WfmOxide,20.5
+AbdelStark/claude-md-compiler,AbdelStark,,personal,personal account,no,Python,9,pytest-benchmark,2026-08-03,,,,,https://github.com/AbdelStark/claude-md-compiler,20.5
+mkbeh/arb-bot-rs,mkbeh,,personal,personal account,no,Rust,7,criterion,2026-08-21,,,,,https://github.com/mkbeh/arb-bot-rs,19.3
+g0ldyy/torrent-parse-rank,g0ldyy,,personal,personal account,no,Python,7,criterion,2026-09-09,,,,,https://github.com/g0ldyy/torrent-parse-rank,19.3
+Taaitaaiger/rustfft-jl,Taaitaaiger,,personal,personal account,no,Rust,7,criterion,2026-09-10,,,,,https://github.com/Taaitaaiger/rustfft-jl,19.3
+nothingnesses/rust-fp-library,nothingnesses,,personal,personal account,no,Rust,7,criterion,2026-10-19,,,,,https://github.com/nothingnesses/rust-fp-library,19.3
+duyet/coding-agent-insights,duyet,,personal,personal account,no,Rust,6,divan,2026-10-20,,,,,https://github.com/duyet/coding-agent-insights,18.6
+rubensworks/rdf-stores.js,rubensworks,,personal,personal account,no,TypeScript,15,tinybench,2026-10-20,,,,,https://github.com/rubensworks/rdf-stores.js,17.9
+traceflight/pcaparse,traceflight,,personal,personal account,no,Rust,5,criterion,2026-06-22,,,,,https://github.com/traceflight/pcaparse,17.7
+charlatanshost/5-axis-non-planar-rust-slicer-project,charlatanshost,,personal,personal account,no,Rust,5,criterion,2026-07-25,,,,,https://github.com/charlatanshost/5-axis-non-planar-rust-slicer-project,17.7
+jjant/ini-edit,jjant,,personal,personal account,no,Rust,4,criterion,2026-10-08,,,,,https://github.com/jjant/ini-edit,16.6
+mosure/bevy_synth,mosure,,personal,personal account,no,Rust,4,criterion,2026-07-01,,,,,https://github.com/mosure/bevy_synth,16.6
+jiangzhuochi/trading_day_calc,jiangzhuochi,,personal,personal account,no,Python,4,pytest-benchmark,2026-08-15,,,,,https://github.com/jiangzhuochi/trading_day_calc,16.6
+xinkai-jiang/pyzlc,xinkai-jiang,,personal,personal account,no,Python,4,pytest-benchmark,2026-05-18,,,,,https://github.com/xinkai-jiang/pyzlc,16.6
+letientai299/leetcode,letientai299,,personal,personal account,no,Go,11,divan,2026-05-26,,,,,https://github.com/letientai299/leetcode,16.5
+arikchakma/stylecast,arikchakma,,personal,personal account,no,TypeScript,11,mitata,2026-08-30,,,,,https://github.com/arikchakma/stylecast,16.5
+rwilliamspbg-ops/Sovereign-Mohawk-Proto,rwilliamspbg-ops,,personal,personal account,no,Go,10,pytest-benchmark,2026-10-18,,,,,https://github.com/rwilliamspbg-ops/Sovereign-Mohawk-Proto,16.0
+bryanhoulton/tango,bryanhoulton,,personal,personal account,no,TypeScript,10,tinybench,2026-06-10,,,,,https://github.com/bryanhoulton/tango,16.0
+nissoh/aelea,nissoh,,personal,personal account,no,TypeScript,10,tinybench,2026-09-28,,,,,https://github.com/nissoh/aelea,16.0
+TeeAaTeeUu/JSONway,TeeAaTeeUu,,personal,personal account,no,JavaScript,9,mitata,2026-07-24,,,,,https://github.com/TeeAaTeeUu/JSONway,15.5
+kurisu994/belobog-stellar-grid,kurisu994,,personal,personal account,no,Rust,3,criterion,2026-10-19,,,,,https://github.com/kurisu994/belobog-stellar-grid,15.2
+HakimIno/plusplus,HakimIno,,personal,personal account,no,Rust,3,criterion,2026-10-09,,,,,https://github.com/HakimIno/plusplus,15.2
+spamviech/zugkontrolle,spamviech,,personal,personal account,no,Rust,3,criterion,2026-10-18,,,,,https://github.com/spamviech/zugkontrolle,15.2
+VLPraneeth/nautechsystems-nautilus_trader,VLPraneeth,,personal,personal account,no,Rust,3,criterion,2026-07-22,,,,,https://github.com/VLPraneeth/nautechsystems-nautilus_trader,15.2
+KaiCode2/evm-fork-cache,KaiCode2,,personal,personal account,no,Rust,3,criterion,2026-10-20,,,,,https://github.com/KaiCode2/evm-fork-cache,15.2
+alireza-shirzad/irondict,alireza-shirzad,,personal,personal account,no,Rust,3,divan,2026-06-30,,,,,https://github.com/alireza-shirzad/irondict,15.2
+cpolito88/tapio,cpolito88,,personal,personal account,no,Python,3,pytest-benchmark,2026-10-20,,,,,https://github.com/cpolito88/tapio,15.2
+ixchio/agent-vcr,ixchio,,personal,personal account,no,Python,3,pytest-benchmark,2026-10-15,,,,,https://github.com/ixchio/agent-vcr,15.2
+successkrisz/effect-packages,successkrisz,,personal,personal account,no,TypeScript,7,tinybench,2026-10-19,,,,,https://github.com/successkrisz/effect-packages,14.3
+bramp/funcs,bramp,,personal,personal account,no,JavaScript,7,tinybench,2026-10-20,,,,,https://github.com/bramp/funcs,14.3
+belgattitude/flowblade,belgattitude,,personal,personal account,no,TypeScript,7,tinybench,2026-10-20,,,,,https://github.com/belgattitude/flowblade,14.3
+hezhengxu2018/silver-formily,hezhengxu2018,,personal,personal account,no,TypeScript,7,mitata,2026-10-20,,,,,https://github.com/hezhengxu2018/silver-formily,14.3
+NAlexPear/scruple,NAlexPear,,personal,personal account,no,TypeScript,7,benchmark.js,2026-10-11,,,,,https://github.com/NAlexPear/scruple,14.3
+gustavoamigo/bytecaskdb,gustavoamigo,,personal,personal account,no,C++,6,tinybench,2026-10-21,,,,,https://github.com/gustavoamigo/bytecaskdb,13.6
+vanyastaff/flui,vanyastaff,,personal,personal account,no,Rust,2,criterion,2026-10-21,,,,,https://github.com/vanyastaff/flui,13.3
+visorcraft/LinSight,visorcraft,,personal,personal account,no,Rust,2,criterion,2026-07-01,,,,,https://github.com/visorcraft/LinSight,13.3
+Sonlux/ESCAI,Sonlux,,personal,personal account,no,Python,2,pytest-benchmark,2026-08-15,,,,,https://github.com/Sonlux/ESCAI,13.3
+botirkhaltaev/tensora,botirkhaltaev,,personal,personal account,no,Rust,2,pytest-benchmark,2026-06-23,,,,,https://github.com/botirkhaltaev/tensora,13.3
+Amoghk04/ForgeArena,Amoghk04,,personal,personal account,no,Python,2,pytest-benchmark,2026-04-27,,,,,https://github.com/Amoghk04/ForgeArena,13.3
+gwickman/stoat-and-ferret,gwickman,,personal,personal account,no,Python,2,pytest-benchmark,2026-09-18,,,,,https://github.com/gwickman/stoat-and-ferret,13.3
+ZachFlint/Intellicrack,ZachFlint,,personal,personal account,no,Python,2,pytest-benchmark,2026-10-21,,,,,https://github.com/ZachFlint/Intellicrack,13.3
+oaslananka/fovux-kit,oaslananka,,personal,personal account,no,Python,2,pytest-benchmark,2026-10-20,,,,,https://github.com/oaslananka/fovux-kit,13.3
+ZapcoMan/RuoyiScanX,ZapcoMan,,personal,personal account,no,Python,2,pytest-benchmark,2026-09-27,,,,,https://github.com/ZapcoMan/RuoyiScanX,13.3
+Londopy/ropesim,Londopy,,personal,personal account,no,Python,2,pytest-benchmark,2026-07-13,,,,,https://github.com/Londopy/ropesim,13.3
+GraysonBellamy/pyngb,GraysonBellamy,,personal,personal account,no,Python,2,pytest-benchmark,2026-10-20,,,,,https://github.com/GraysonBellamy/pyngb,13.3
+bijux/bijux-proteomics,bijux,,personal,personal account,no,Python,2,pytest-benchmark,2026-10-21,,,,,https://github.com/bijux/bijux-proteomics,13.3
+alfonsusac/validation-lib,alfonsusac,,personal,personal account,no,TypeScript,0,mitata|tinybench,2026-09-05,,,,,https://github.com/alfonsusac/validation-lib,13.0
+yan-930521/SuperNova,yan-930521,,personal,personal account,no,TypeScript,4,mitata,2026-10-01,,,,,https://github.com/yan-930521/SuperNova,11.6
+feigo313/omp-zh-i18n,feigo313,,personal,personal account,no,TypeScript,4,mitata,2026-10-21,,,,,https://github.com/feigo313/omp-zh-i18n,11.6
+ksaurav24/valve,ksaurav24,,personal,personal account,no,TypeScript,3,tinybench,2026-10-20,,,,,https://github.com/ksaurav24/valve,10.2
+seanchatmangpt/unrdf,seanchatmangpt,,personal,personal account,no,JavaScript,3,tinybench,2026-09-30,,,,,https://github.com/seanchatmangpt/unrdf,10.2
+kbilkis/cron-fast,kbilkis,,personal,personal account,no,TypeScript,3,mitata,2026-10-19,,,,,https://github.com/kbilkis/cron-fast,10.2
+stepancar/articles,stepancar,,personal,personal account,no,JavaScript,3,benchmark.js,2026-10-03,,,,,https://github.com/stepancar/articles,10.2
+halilertekin/CC-RouterMultiProvider,halilertekin,,personal,personal account,no,JavaScript,3,benchmark.js,2026-10-16,,,,,https://github.com/halilertekin/CC-RouterMultiProvider,10.2
+rohaoh/sp202606,rohaoh,,personal,personal account,no,JavaScript,3,benchmark.js,2026-10-17,,,,,https://github.com/rohaoh/sp202606,10.2
+weiwei929/bt-player,weiwei929,,personal,personal account,no,Rust,0,criterion,2026-05-16,,,,,https://github.com/weiwei929/bt-player,10.0
+Figaro-Trading/nautilus_trader_figaro,Figaro-Trading,,personal,personal account,no,Rust,1,criterion,2026-07-09,,,,,https://github.com/Figaro-Trading/nautilus_trader_figaro,10.0
+sger/buildlens,sger,,personal,personal account,no,Rust,0,criterion,2026-08-20,,,,,https://github.com/sger/buildlens,10.0
+ulquiorracode/stitch-rs,ulquiorracode,,personal,personal account,no,Rust,1,criterion,2026-10-16,,,,,https://github.com/ulquiorracode/stitch-rs,10.0
+woody34/nightfall-rpg,woody34,,personal,personal account,no,Rust,0,criterion,2026-10-13,,,,,https://github.com/woody34/nightfall-rpg,10.0
+willmtemple/adaptite,willmtemple,,personal,personal account,no,Rust,0,criterion,2026-07-31,,,,,https://github.com/willmtemple/adaptite,10.0
+kaleababayneh/inscribe,kaleababayneh,,personal,personal account,no,Rust,0,criterion,2026-06-01,,,,,https://github.com/kaleababayneh/inscribe,10.0
+lawfullyillegal-droid/federal-suit-2026,lawfullyillegal-droid,,personal,personal account,no,Rust,0,criterion,2026-10-17,,,,,https://github.com/lawfullyillegal-droid/federal-suit-2026,10.0
+Derek-X-Wang/nvwa,Derek-X-Wang,,personal,personal account,no,Python,0,criterion,2026-10-21,,,,,https://github.com/Derek-X-Wang/nvwa,10.0
+KooshaPari/PhenoShared,KooshaPari,,personal,personal account,no,Rust,0,criterion,2026-10-21,,,,,https://github.com/KooshaPari/PhenoShared,10.0
+NFJones/cargo-sloc,NFJones,,personal,personal account,no,Rust,1,criterion,2026-09-01,,,,,https://github.com/NFJones/cargo-sloc,10.0
+yethikrishna/forge,yethikrishna,,personal,personal account,no,Rust,0,criterion,2026-07-25,,,,,https://github.com/yethikrishna/forge,10.0
+oneshinyboi/gifdeck-vendor,oneshinyboi,,personal,personal account,no,Rust,0,criterion,2026-09-07,,,,,https://github.com/oneshinyboi/gifdeck-vendor,10.0
+1sgtpepper/aleo-scope-monorepo,1sgtpepper,,personal,personal account,no,Rust,0,criterion,2026-10-21,,,,,https://github.com/1sgtpepper/aleo-scope-monorepo,10.0
+postrv/mcafee-three-party-crypto,postrv,,personal,personal account,no,Rust,0,criterion,2026-07-16,,,,,https://github.com/postrv/mcafee-three-party-crypto,10.0
+PranavTJ-05/Readypay,PranavTJ-05,,personal,personal account,no,Rust,0,criterion,2026-10-07,,,,,https://github.com/PranavTJ-05/Readypay,10.0
+thepixelabs/lightbox,thepixelabs,,personal,personal account,no,Rust,0,criterion,2026-09-18,,,,,https://github.com/thepixelabs/lightbox,10.0
+Boslx/num-rational-parse,Boslx,,personal,personal account,no,Rust,1,criterion,2026-07-27,,,,,https://github.com/Boslx/num-rational-parse,10.0
+pristley/notears,pristley,,personal,personal account,no,Rust,1,criterion,2026-07-05,,,,,https://github.com/pristley/notears,10.0
+jus1d/gram,jus1d,,personal,personal account,no,Rust,0,criterion,2026-05-03,,,,,https://github.com/jus1d/gram,10.0
+miketheadboy/1856,miketheadboy,,personal,personal account,no,Rust,0,criterion,2026-10-03,,,,,https://github.com/miketheadboy/1856,10.0
+christoffercarlsson/stedy,christoffercarlsson,,personal,personal account,no,Rust,0,criterion,2026-10-19,,,,,https://github.com/christoffercarlsson/stedy,10.0
+Pointhairedboss/AXRU,Pointhairedboss,,personal,personal account,no,Rust,0,criterion,2026-05-11,,,,,https://github.com/Pointhairedboss/AXRU,10.0
+lawfullyillegal-droid/federal-suit,lawfullyillegal-droid,,personal,personal account,no,Rust,0,criterion,2026-08-05,,,,,https://github.com/lawfullyillegal-droid/federal-suit,10.0
+AIMikecode/NeuraforgeAI,AIMikecode,,personal,personal account,no,Rust,0,criterion,2026-07-13,,,,,https://github.com/AIMikecode/NeuraforgeAI,10.0
+michaelklishin/ldap-client-rs,michaelklishin,,personal,personal account,no,Rust,1,criterion,2026-10-01,,,,,https://github.com/michaelklishin/ldap-client-rs,10.0
+3MUl0R/EchoType,3MUl0R,,personal,personal account,no,Rust,0,criterion,2026-09-02,,,,,https://github.com/3MUl0R/EchoType,10.0
+nicholas-l/advent-of-code-2021,nicholas-l,,personal,personal account,no,Rust,0,criterion,2026-10-19,,,,,https://github.com/nicholas-l/advent-of-code-2021,10.0
+Mikeslpmex/NeuraforgeAI,Mikeslpmex,,personal,personal account,no,Rust,1,criterion,2026-08-29,,,,,https://github.com/Mikeslpmex/NeuraforgeAI,10.0
+suzuenhasa/perps-engine,suzuenhasa,,personal,personal account,no,Rust,1,criterion,2026-10-02,,,,,https://github.com/suzuenhasa/perps-engine,10.0
+eas4ai/suprnova-lsp,eas4ai,,personal,personal account,no,Rust,0,divan,2026-10-11,,,,,https://github.com/eas4ai/suprnova-lsp,10.0
+Ercaner1988/pasli-zemin,Ercaner1988,,personal,personal account,no,Rust,1,divan,2026-10-13,,,,,https://github.com/Ercaner1988/pasli-zemin,10.0
+eve0415/oasts,eve0415,,personal,personal account,no,Rust,0,divan,2026-08-31,,,,,https://github.com/eve0415/oasts,10.0
+helloworld8493/gradient-desk,helloworld8493,,personal,personal account,no,Python,0,divan,2026-10-20,,,,,https://github.com/helloworld8493/gradient-desk,10.0
+Ercaner1988/el-Fihrist,Ercaner1988,,personal,personal account,no,Rust,1,divan,2026-10-15,,,,,https://github.com/Ercaner1988/el-Fihrist,10.0
+keltia/old-crypto-rs,keltia,,personal,personal account,no,Rust,1,divan,2026-10-20,,,,,https://github.com/keltia/old-crypto-rs,10.0
+lexoliu/helios,lexoliu,,personal,personal account,no,Rust,1,divan,2026-10-16,,,,,https://github.com/lexoliu/helios,10.0
+Feng-758/huub-noc-research,Feng-758,,personal,personal account,no,Rust,0,divan,2026-05-14,,,,,https://github.com/Feng-758/huub-noc-research,10.0
+orionz/automerge-battery,orionz,,personal,personal account,no,Rust,1,divan,2026-06-12,,,,,https://github.com/orionz/automerge-battery,10.0
+PupilTong/lynx-vello,PupilTong,,personal,personal account,no,Rust,0,divan,2026-10-21,,,,,https://github.com/PupilTong/lynx-vello,10.0
+recregt/mix,recregt,,personal,personal account,no,Rust,0,divan,2026-10-20,,,,,https://github.com/recregt/mix,10.0
+jukqaz/groundline,jukqaz,,personal,personal account,no,Rust,0,divan,2026-10-20,,,,,https://github.com/jukqaz/groundline,10.0
+chiragborse1/deep-research-harness,chiragborse1,,personal,personal account,no,Python,0,pytest-benchmark,2026-09-29,,,,,https://github.com/chiragborse1/deep-research-harness,10.0
+jacobldavis/ligo.skymap,jacobldavis,,personal,personal account,no,Python,1,pytest-benchmark,2026-06-06,,,,,https://github.com/jacobldavis/ligo.skymap,10.0
+SamaHassa/AI_Project_Architect,SamaHassa,,personal,personal account,no,Python,0,pytest-benchmark,2026-07-29,,,,,https://github.com/SamaHassa/AI_Project_Architect,10.0
+683280yj/ApeRAG-LocalReranker,683280yj,,personal,personal account,no,Python,0,pytest-benchmark,2026-08-17,,,,,https://github.com/683280yj/ApeRAG-LocalReranker,10.0
+justagist/ros2_http_gateway,justagist,,personal,personal account,no,Python,0,pytest-benchmark,2026-08-05,,,,,https://github.com/justagist/ros2_http_gateway,10.0
+twardoch/twat-os,twardoch,,personal,personal account,no,Python,0,pytest-benchmark,2026-06-29,,,,,https://github.com/twardoch/twat-os,10.0
+bdperkin/nhl-scrabble,bdperkin,,personal,personal account,no,Python,0,pytest-benchmark,2026-10-21,,,,,https://github.com/bdperkin/nhl-scrabble,10.0
+steventango/plant-cv,steventango,,personal,personal account,no,Python,0,pytest-benchmark,2026-08-26,,,,,https://github.com/steventango/plant-cv,10.0
+srinikhil25/LatOS,srinikhil25,,personal,personal account,no,Python,0,pytest-benchmark,2026-10-19,,,,,https://github.com/srinikhil25/LatOS,10.0
+Lukashevskiy/tunix-agents,Lukashevskiy,,personal,personal account,no,Python,0,pytest-benchmark,2026-07-03,,,,,https://github.com/Lukashevskiy/tunix-agents,10.0
+thejmimiia-code/D-mocratie-et-politique-du-peuple-pour-le-peuple-par-le-peuple,thejmimiia-code,,personal,personal account,no,Python,1,pytest-benchmark,2026-10-20,,,,,https://github.com/thejmimiia-code/D-mocratie-et-politique-du-peuple-pour-le-peuple-par-le-peuple,10.0
+ZX466/natural-world,ZX466,,personal,personal account,no,Python,0,pytest-benchmark,2026-10-20,,,,,https://github.com/ZX466/natural-world,10.0
+ElenYoung/QFeatureLib,ElenYoung,,personal,personal account,no,Python,1,pytest-benchmark,2026-07-23,,,,,https://github.com/ElenYoung/QFeatureLib,10.0
+filiprumenovski/mzpeak-rs,filiprumenovski,,personal,personal account,no,Rust,1,pytest-benchmark,2026-10-19,,,,,https://github.com/filiprumenovski/mzpeak-rs,10.0
+hkgodhani/pytkc,hkgodhani,,personal,personal account,no,Python,0,pytest-benchmark,2026-06-29,,,,,https://github.com/hkgodhani/pytkc,10.0
+RahilJain1366/metal-q,RahilJain1366,,personal,personal account,no,Python,0,pytest-benchmark,2026-07-24,,,,,https://github.com/RahilJain1366/metal-q,10.0
+MicaelJarniac/crustypy-instance,MicaelJarniac,,personal,personal account,no,Python,0,pytest-benchmark,2026-04-26,,,,,https://github.com/MicaelJarniac/crustypy-instance,10.0
+ZetrextJG/shrinkr,ZetrextJG,,personal,personal account,no,Python,0,pytest-benchmark,2026-06-16,,,,,https://github.com/ZetrextJG/shrinkr,10.0
+Buckeyes22/pitwall,Buckeyes22,,personal,personal account,no,Python,0,pytest-benchmark,2026-10-19,,,,,https://github.com/Buckeyes22/pitwall,10.0
+ArtnerC/cql-flow,ArtnerC,,personal,personal account,no,Python,0,pytest-benchmark,2026-10-21,,,,,https://github.com/ArtnerC/cql-flow,10.0
+joanjcaceres/HybridSuperQubits,joanjcaceres,,personal,personal account,no,Python,1,pytest-benchmark,2026-06-13,,,,,https://github.com/joanjcaceres/HybridSuperQubits,10.0
+SabirDzh/Extra,SabirDzh,,personal,personal account,no,Python,1,pytest-benchmark,2026-08-27,,,,,https://github.com/SabirDzh/Extra,10.0
+Tharuntamilmani/ULPF-FINAL,Tharuntamilmani,,personal,personal account,no,Python,0,pytest-benchmark,2026-09-21,,,,,https://github.com/Tharuntamilmani/ULPF-FINAL,10.0
+Mehak-991/RAG-Chatbot,Mehak-991,,personal,personal account,no,Python,0,pytest-benchmark,2026-07-21,,,,,https://github.com/Mehak-991/RAG-Chatbot,10.0
+watany-dev/chokkin,watany-dev,,personal,personal account,no,Rust,1,pytest-benchmark,2026-10-21,,,,,https://github.com/watany-dev/chokkin,10.0
+havogt/icon4py,havogt,,personal,personal account,no,Python,0,pytest-benchmark,2026-10-20,,,,,https://github.com/havogt/icon4py,10.0
+Code0x58/alternative,Code0x58,,personal,personal account,no,Python,1,pytest-benchmark,2026-10-19,,,,,https://github.com/Code0x58/alternative,10.0
+CaptainDriftwood/python-icap,CaptainDriftwood,,personal,personal account,no,Python,1,pytest-benchmark,2026-07-08,,,,,https://github.com/CaptainDriftwood/python-icap,10.0
+networmix/NetLab,networmix,,personal,personal account,no,Python,0,pytest-benchmark,2026-10-04,,,,,https://github.com/networmix/NetLab,10.0
+DiogoRibeiro7/pygeostats,DiogoRibeiro7,,personal,personal account,no,Python,0,pytest-benchmark,2026-10-15,,,,,https://github.com/DiogoRibeiro7/pygeostats,10.0
+DiogoRibeiro7/agentic_pipeline_medium_article,DiogoRibeiro7,,personal,personal account,no,Python,0,pytest-benchmark,2026-07-02,,,,,https://github.com/DiogoRibeiro7/agentic_pipeline_medium_article,10.0
+praveenmunagapati/dummy,praveenmunagapati,,personal,personal account,no,Python,1,pytest-benchmark,2026-08-11,,,,,https://github.com/praveenmunagapati/dummy,10.0
+hitarthbuilds/confident-extract,hitarthbuilds,,personal,personal account,no,Python,1,pytest-benchmark,2026-07-02,,,,,https://github.com/hitarthbuilds/confident-extract,10.0
+lttim/actuarial_models,lttim,,personal,personal account,no,Python,1,pytest-benchmark,2026-07-13,,,,,https://github.com/lttim/actuarial_models,10.0
+Kavalan-Whisky/Number-Generator,Kavalan-Whisky,,personal,personal account,no,Python,0,pytest-benchmark,2026-06-11,,,,,https://github.com/Kavalan-Whisky/Number-Generator,10.0
+ASEM000/autoform,ASEM000,,personal,personal account,no,Python,1,pytest-benchmark,2026-10-20,,,,,https://github.com/ASEM000/autoform,10.0
+DhanushPillay/tx-recon,DhanushPillay,,personal,personal account,no,Python,1,pytest-benchmark,2026-10-20,,,,,https://github.com/DhanushPillay/tx-recon,10.0
+Lr-2002/rerun,Lr-2002,,personal,personal account,no,Rust,0,pytest-benchmark,2026-05-28,,,,,https://github.com/Lr-2002/rerun,10.0
+hoang91vn/rl-debt-collection-thesis,hoang91vn,,personal,personal account,no,Python,0,pytest-benchmark,2026-05-14,,,,,https://github.com/hoang91vn/rl-debt-collection-thesis,10.0
+sainibhaowal/Alcyoneus-OS,sainibhaowal,,personal,personal account,no,Python,1,pytest-benchmark,2026-09-23,,,,,https://github.com/sainibhaowal/Alcyoneus-OS,10.0
+shammell/jarvis-ai,shammell,,personal,personal account,no,Python,0,tinybench,2026-04-24,,,,,https://github.com/shammell/jarvis-ai,10.0
+gpu004/monty-local,gpu004,,personal,personal account,no,Rust,0,tinybench,2026-05-03,,,,,https://github.com/gpu004/monty-local,10.0
+ryanfowler/legible-node,ryanfowler,,personal,personal account,no,Rust,0,tinybench,2026-09-03,,,,,https://github.com/ryanfowler/legible-node,10.0
+KingTimer12/tachyon-rs,KingTimer12,,personal,personal account,no,Rust,0,tinybench,2026-05-05,,,,,https://github.com/KingTimer12/tachyon-rs,10.0
+bdbch/rivet,bdbch,,personal,personal account,no,Rust,0,tinybench,2026-10-07,,,,,https://github.com/bdbch/rivet,10.0
+agustif/bun-arcus,agustif,,personal,personal account,no,Rust,0,mitata,2026-10-19,,,,,https://github.com/agustif/bun-arcus,10.0
+tuliopc23/BoutiqueDB,tuliopc23,,personal,personal account,no,Rust,0,mitata,2026-10-05,,,,,https://github.com/tuliopc23/BoutiqueDB,10.0
+nightscape/turso-worker-wasm-fix,nightscape,,personal,personal account,no,Rust,0,mitata,2026-07-16,,,,,https://github.com/nightscape/turso-worker-wasm-fix,10.0
+liooil/poly,liooil,,personal,personal account,no,Rust,1,mitata,2026-10-16,,,,,https://github.com/liooil/poly,10.0
+xiaoxindada/android_tools_build,xiaoxindada,,personal,personal account,no,C++,2,criterion,2026-10-19,,,,,https://github.com/xiaoxindada/android_tools_build,8.3
+leonitousconforti/efffrida,leonitousconforti,,personal,personal account,no,TypeScript,2,tinybench,2026-10-21,,,,,https://github.com/leonitousconforti/efffrida,8.3
+aklinker1/zeta,aklinker1,,personal,personal account,no,TypeScript,2,tinybench,2026-09-06,,,,,https://github.com/aklinker1/zeta,8.3
+hoodiecollin/typescript-to-rust,hoodiecollin,,personal,personal account,no,TypeScript,2,mitata,2026-08-22,,,,,https://github.com/hoodiecollin/typescript-to-rust,8.3
+king-numsgil/project-metis,king-numsgil,,personal,personal account,no,C,2,mitata,2026-06-01,,,,,https://github.com/king-numsgil/project-metis,8.3
+howmanysmall/small-rules,howmanysmall,,personal,personal account,no,TypeScript,2,mitata,2026-10-20,,,,,https://github.com/howmanysmall/small-rules,8.3
+kakahuote1/ArkTaint,kakahuote1,,personal,personal account,no,TypeScript,2,benchmark.js,2026-07-31,,,,,https://github.com/kakahuote1/ArkTaint,8.3
+niksoriginals/Aro,niksoriginals,,personal,personal account,no,C++,0,criterion,2026-08-13,,,,,https://github.com/niksoriginals/Aro,5.0
+BOSS0exe/for-h1-test1,BOSS0exe,,personal,personal account,no,C++,0,criterion,2026-08-07,,,,,https://github.com/BOSS0exe/for-h1-test1,5.0
+wangshaohua66/solo2p,wangshaohua66,,personal,personal account,no,JavaScript,0,criterion,2026-06-22,,,,,https://github.com/wangshaohua66/solo2p,5.0
+lincolnaleixo/Lume,lincolnaleixo,,personal,personal account,no,C++,0,criterion,2026-10-04,,,,,https://github.com/lincolnaleixo/Lume,5.0
+tonyler/cosmos-arcade,tonyler,,personal,personal account,no,JavaScript,0,criterion,2026-07-05,,,,,https://github.com/tonyler/cosmos-arcade,5.0
+mohamedsadiqaguenaou/Safaa,mohamedsadiqaguenaou,,personal,personal account,no,C++,0,criterion,2026-10-20,,,,,https://github.com/mohamedsadiqaguenaou/Safaa,5.0
+Administrator-Lucid-Programming/Javascript,Administrator-Lucid-Programming,,personal,personal account,no,TypeScript,0,criterion,2026-10-13,,,,,https://github.com/Administrator-Lucid-Programming/Javascript,5.0
+KamranUllahAfaq/Orqivium,KamranUllahAfaq,,personal,personal account,no,TypeScript,0,pytest-benchmark,2026-10-13,,,,,https://github.com/KamranUllahAfaq/Orqivium,5.0
+Pkanna10/autonomous-ai-platform,Pkanna10,,personal,personal account,no,TypeScript,0,pytest-benchmark,2026-09-07,,,,,https://github.com/Pkanna10/autonomous-ai-platform,5.0
+lyufan610610-cpu/dify-showcase,lyufan610610-cpu,,personal,personal account,no,TypeScript,1,pytest-benchmark,2026-10-21,,,,,https://github.com/lyufan610610-cpu/dify-showcase,5.0
+evanlouie/vimium-webkit,evanlouie,,personal,personal account,no,TypeScript,0,tinybench,2026-10-05,,,,,https://github.com/evanlouie/vimium-webkit,5.0
+Nitinprasadsingh/fsd_tnp_assignment,Nitinprasadsingh,,personal,personal account,no,JavaScript,0,tinybench,2026-08-11,,,,,https://github.com/Nitinprasadsingh/fsd_tnp_assignment,5.0
+tommy0103/vitest_lab,tommy0103,,personal,personal account,no,TypeScript,0,tinybench,2026-04-24,,,,,https://github.com/tommy0103/vitest_lab,5.0
+devianllert/enigo-napi-rs,devianllert,,personal,personal account,no,JavaScript,0,tinybench,2026-07-01,,,,,https://github.com/devianllert/enigo-napi-rs,5.0
+206069780/person-cv,206069780,,personal,personal account,no,JavaScript,0,tinybench,2026-08-31,,,,,https://github.com/206069780/person-cv,5.0
+MarsTianZ/marstianz.github.io,MarsTianZ,,personal,personal account,no,JavaScript,0,tinybench,2026-10-20,,,,,https://github.com/MarsTianZ/marstianz.github.io,5.0
+sulthonuladib/abogoboga,sulthonuladib,,personal,personal account,no,TypeScript,0,tinybench,2026-10-01,,,,,https://github.com/sulthonuladib/abogoboga,5.0
+Taciturno11/DICI-PROYECT,Taciturno11,,personal,personal account,no,TypeScript,0,tinybench,2026-07-09,,,,,https://github.com/Taciturno11/DICI-PROYECT,5.0
+seanmckenzie428/t4code,seanmckenzie428,,personal,personal account,no,TypeScript,1,tinybench,2026-10-08,,,,,https://github.com/seanmckenzie428/t4code,5.0
+julia-script/effect-acp,julia-script,,personal,personal account,no,TypeScript,0,tinybench,2026-10-03,,,,,https://github.com/julia-script/effect-acp,5.0
+davizeiro12345678/jogomanager,davizeiro12345678,,personal,personal account,no,TypeScript,1,tinybench,2026-10-20,,,,,https://github.com/davizeiro12345678/jogomanager,5.0
+hansjm10/Idle-Game-Engine,hansjm10,,personal,personal account,no,TypeScript,0,tinybench,2026-05-03,,,,,https://github.com/hansjm10/Idle-Game-Engine,5.0
+Yeswanthkosuri/Mini-Manus-AI,Yeswanthkosuri,,personal,personal account,no,TypeScript,0,tinybench,2026-06-23,,,,,https://github.com/Yeswanthkosuri/Mini-Manus-AI,5.0
+Lucifer4255/affine-chatwoot-task,Lucifer4255,,personal,personal account,no,TypeScript,0,tinybench,2026-08-31,,,,,https://github.com/Lucifer4255/affine-chatwoot-task,5.0
+harshavardhan998907-png/WishCraft,harshavardhan998907-png,,personal,personal account,no,TypeScript,0,tinybench,2026-09-20,,,,,https://github.com/harshavardhan998907-png/WishCraft,5.0
+isaiah-foster/R2Notary,isaiah-foster,,personal,personal account,no,TypeScript,0,tinybench,2026-10-17,,,,,https://github.com/isaiah-foster/R2Notary,5.0
+sepehrsariaslani/hrms,sepehrsariaslani,,personal,personal account,no,JavaScript,0,tinybench,2026-08-25,,,,,https://github.com/sepehrsariaslani/hrms,5.0
+funkadelic/YART,funkadelic,,personal,personal account,no,TypeScript,1,tinybench,2026-10-21,,,,,https://github.com/funkadelic/YART,5.0
+weiweizh/portfolio-backtest-simulator,weiweizh,,personal,personal account,no,JavaScript,0,tinybench,2026-09-02,,,,,https://github.com/weiweizh/portfolio-backtest-simulator,5.0
+ikusner13/yahoo-fantasy-baseball,ikusner13,,personal,personal account,no,TypeScript,0,tinybench,2026-07-07,,,,,https://github.com/ikusner13/yahoo-fantasy-baseball,5.0
+egefeyzioglu/ai-thing,egefeyzioglu,,personal,personal account,no,TypeScript,0,tinybench,2026-10-05,,,,,https://github.com/egefeyzioglu/ai-thing,5.0
+rizvee/tracksmith-pro,rizvee,,personal,personal account,no,JavaScript,0,tinybench,2026-04-25,,,,,https://github.com/rizvee/tracksmith-pro,5.0
+MiaTexnes/Auction-House-Pink-Gavel,MiaTexnes,,personal,personal account,no,JavaScript,0,tinybench,2026-10-19,,,,,https://github.com/MiaTexnes/Auction-House-Pink-Gavel,5.0
+Boysoffem/-e-tools-Ran-for-Friends,Boysoffem,,personal,personal account,no,JavaScript,0,tinybench,2026-10-09,,,,,https://github.com/Boysoffem/-e-tools-Ran-for-Friends,5.0
+Tirthp1507/vertex-performance,Tirthp1507,,personal,personal account,no,JavaScript,0,tinybench,2026-07-01,,,,,https://github.com/Tirthp1507/vertex-performance,5.0
+aldanedev-create/pytscheck,aldanedev-create,,personal,personal account,no,TypeScript,0,tinybench,2026-10-19,,,,,https://github.com/aldanedev-create/pytscheck,5.0
+LuisandovalU/restaurante-comandas-realtime,LuisandovalU,,personal,personal account,no,TypeScript,0,tinybench,2026-06-22,,,,,https://github.com/LuisandovalU/restaurante-comandas-realtime,5.0
+adelrodriguez/tryharder,adelrodriguez,,personal,personal account,no,TypeScript,0,mitata,2026-10-06,,,,,https://github.com/adelrodriguez/tryharder,5.0
+sekedus/oc-tokenizer,sekedus,,personal,personal account,no,TypeScript,0,mitata,2026-10-13,,,,,https://github.com/sekedus/oc-tokenizer,5.0
+kartikparsoya-eng/mono-better,kartikparsoya-eng,,personal,personal account,no,TypeScript,0,mitata,2026-09-16,,,,,https://github.com/kartikparsoya-eng/mono-better,5.0
+leonsilicon/confbox,leonsilicon,,personal,personal account,no,TypeScript,0,mitata,2026-06-04,,,,,https://github.com/leonsilicon/confbox,5.0
+okikio/selector-benchmark-harness,okikio,,personal,personal account,no,TypeScript,0,mitata,2026-07-04,,,,,https://github.com/okikio/selector-benchmark-harness,5.0
+alanrsoares/onrails,alanrsoares,,personal,personal account,no,TypeScript,1,mitata,2026-10-14,,,,,https://github.com/alanrsoares/onrails,5.0
+jotapemattos/rinha-de-backend-2026,jotapemattos,,personal,personal account,no,TypeScript,0,mitata,2026-06-06,,,,,https://github.com/jotapemattos/rinha-de-backend-2026,5.0
+Spiderspun0/honojs,Spiderspun0,,personal,personal account,no,TypeScript,0,mitata,2026-06-02,,,,,https://github.com/Spiderspun0/honojs,5.0
+nopeless/jay,nopeless,,personal,personal account,no,TypeScript,0,mitata,2026-08-31,,,,,https://github.com/nopeless/jay,5.0
+rifandani/be-monorepo,rifandani,,personal,personal account,no,TypeScript,0,mitata,2026-10-15,,,,,https://github.com/rifandani/be-monorepo,5.0
+ninoslat1/easse,ninoslat1,,personal,personal account,no,TypeScript,1,mitata,2026-06-16,,,,,https://github.com/ninoslat1/easse,5.0
+eliesgalvira/pragma-dsp,eliesgalvira,,personal,personal account,no,TypeScript,0,mitata,2026-05-14,,,,,https://github.com/eliesgalvira/pragma-dsp,5.0
+lukaszraczylo/oh-my-pi-schema,lukaszraczylo,,personal,personal account,no,TypeScript,0,mitata,2026-10-18,,,,,https://github.com/lukaszraczylo/oh-my-pi-schema,5.0
+Simao-Pereira-Gomes/Atomize,Simao-Pereira-Gomes,,personal,personal account,no,TypeScript,0,mitata,2026-10-18,,,,,https://github.com/Simao-Pereira-Gomes/Atomize,5.0
+transaurus/immerjs-immer-preview-prod,transaurus,,personal,personal account,no,JavaScript,0,mitata,2026-05-10,,,,,https://github.com/transaurus/immerjs-immer-preview-prod,5.0
+v3devv/comfydeploynodes,v3devv,,personal,personal account,no,TypeScript,1,mitata,2026-09-29,,,,,https://github.com/v3devv/comfydeploynodes,5.0
+g-cqd/aemijs,g-cqd,,personal,personal account,no,JavaScript,0,mitata,2026-06-12,,,,,https://github.com/g-cqd/aemijs,5.0
+robonen/snippets,robonen,,personal,personal account,no,TypeScript,0,mitata,2026-10-13,,,,,https://github.com/robonen/snippets,5.0
+rrcobb/backgammon,rrcobb,,personal,personal account,no,TypeScript,0,mitata,2026-10-20,,,,,https://github.com/rrcobb/backgammon,5.0
+kamilmichna/node-deno-bun-benchmark,kamilmichna,,personal,personal account,no,TypeScript,0,mitata,2026-06-02,,,,,https://github.com/kamilmichna/node-deno-bun-benchmark,5.0
+hicebone/Novotec,hicebone,,personal,personal account,no,JavaScript,0,mitata,2026-10-14,,,,,https://github.com/hicebone/Novotec,5.0
+lassestilvang/todo-gemini-3-pro-preview,lassestilvang,,personal,personal account,no,TypeScript,0,mitata,2026-09-18,,,,,https://github.com/lassestilvang/todo-gemini-3-pro-preview,5.0
+ayhanarashtasin/BupPreliminaryHackathon,ayhanarashtasin,,personal,personal account,no,JavaScript,0,benchmark.js,2026-09-18,,,,,https://github.com/ayhanarashtasin/BupPreliminaryHackathon,5.0
+Vishal-RAJ-DEV/Interview-Learning,Vishal-RAJ-DEV,,personal,personal account,no,JavaScript,0,benchmark.js,2026-05-25,,,,,https://github.com/Vishal-RAJ-DEV/Interview-Learning,5.0
+Babar-dev-art/shopify-chat-bot-,Babar-dev-art,,personal,personal account,no,JavaScript,0,benchmark.js,2026-08-06,,,,,https://github.com/Babar-dev-art/shopify-chat-bot-,5.0
+atif721/myLectures,atif721,,personal,personal account,no,JavaScript,0,benchmark.js,2026-08-19,,,,,https://github.com/atif721/myLectures,5.0
+BeraArge/EceHocaDoktoraTez,BeraArge,,personal,personal account,no,JavaScript,0,benchmark.js,2026-06-02,,,,,https://github.com/BeraArge/EceHocaDoktoraTez,5.0
+ayanalamMOON/VaultJS,ayanalamMOON,,personal,personal account,no,JavaScript,0,benchmark.js,2026-07-03,,,,,https://github.com/ayanalamMOON/VaultJS,5.0
+paulo-henrique-ph/v2x-blockchain-security,paulo-henrique-ph,,personal,personal account,no,JavaScript,0,benchmark.js,2026-07-03,,,,,https://github.com/paulo-henrique-ph/v2x-blockchain-security,5.0
+Morg3an/event-driven-notify-broker,Morg3an,,personal,personal account,no,JavaScript,0,benchmark.js,2026-09-28,,,,,https://github.com/Morg3an/event-driven-notify-broker,5.0
+sunmeat/paper.io,sunmeat,,personal,personal account,no,JavaScript,1,benchmark.js,2026-10-21,,,,,https://github.com/sunmeat/paper.io,5.0
+kristoffersodersten/measured-by-nova,kristoffersodersten,,personal,personal account,no,TypeScript,0,benchmark.js,2026-10-20,,,,,https://github.com/kristoffersodersten/measured-by-nova,5.0
+jethrolarson/noolang,jethrolarson,,personal,personal account,no,TypeScript,1,benchmark.js,2026-10-12,,,,,https://github.com/jethrolarson/noolang,5.0
+lakshayjangra14/JobMesh,lakshayjangra14,,personal,personal account,no,JavaScript,1,benchmark.js,2026-08-16,,,,,https://github.com/lakshayjangra14/JobMesh,5.0
+Buca/Numfit,Buca,,personal,personal account,no,JavaScript,1,benchmark.js,2026-04-29,,,,,https://github.com/Buca/Numfit,5.0
+Hootsworth/RAG-2,Hootsworth,,personal,personal account,no,JavaScript,0,benchmark.js,2026-05-15,,,,,https://github.com/Hootsworth/RAG-2,5.0

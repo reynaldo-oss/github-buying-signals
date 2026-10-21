@@ -37,11 +37,14 @@ changes on pull requests. Free for open source, $15/user/month beyond that.
 
 **Result: 891 scored prospects, 373 org-owned, zero overlap with existing users.**
 
-| Tier | What it means | Count |
+| Segment | What it means | Count |
 |---|---|---|
-| **1** | Runs benchmarks in CI, no regression gating | 101 orgs |
-| **2** | Benchmark tooling declared, never wired into CI | 272 orgs |
-| — | Already using CodSpeed (excluded) | 259 repos |
+| **Priority** | Commercial org, benchmarks already in CI | **69** |
+| High confidence | Named company or explicit commercial language | 43 orgs |
+| Medium confidence | Identified via contributor employers or commercial TLD | 237 orgs |
+| Tier 1 (all owners) | Benchmarks in CI, no regression gating | 101 |
+| Tier 2 (all owners) | Tooling declared, never wired into CI | 272 |
+| Excluded | Already using CodSpeed | 259 repos |
 
 Language mix: Rust 350, Python 228, TypeScript 196, JavaScript 84.
 
@@ -75,9 +78,15 @@ CI +20. Each additional tooling signal +8. Rust or Python +10, other supported
 languages +5.
 
 **Classification.** A GitHub org is not a company. `classify_orgs.py` pulls org
-metadata and top-contributor employer affiliations, then splits the list into
-commercial, community, and unknown, so outreach goes to orgs with a budget rather
-than to foundations.
+metadata and top-contributor employer affiliations. `refine_classification.py` then
+grades commercial confidence as high, medium, low, or none.
+
+The first pass was binary and leaned on "org has a website", which labelled
+borgbackup.org and cocotb.org as companies and — because its community regex ran
+before any allowlist — labelled Facebook a community project. The refinement checks
+known companies first, treats academic employers as a community signal rather than a
+commercial one, and discounts `.org` domains. Grading beats a binary verdict here
+because the underlying evidence genuinely varies in strength.
 
 ---
 
@@ -87,7 +96,8 @@ Worth stating plainly, because a list that oversells itself is worse than no lis
 
 - **Stars are a proxy for reach, not budget.** A 20k-star project may be three people.
 - **Org classification is heuristic.** It reads descriptions, websites, and contributor
-  employers. It will mislabel some. Treat it as a sort order, not a verdict.
+  employers. Only "high" confidence is backed by a named company or explicit commercial
+  language; "medium" is inference. Treat the grade as a sort order, not a verdict.
 - **No contacts.** This produces accounts and repos. Mapping to people is a separate pass.
 - **Code search is capped.** Results are a large sample, not an exhaustive census.
 - **Only bench-in-CI is revealed behaviour.** Every other dimension is an attribute,
@@ -104,7 +114,8 @@ Standard library only, no dependencies.
 gh auth login
 python3 build_signal_list.py     # customers + benchmarks-in-CI
 python3 expand_signal_list.py    # manifest tooling, merged and rescored
-python3 classify_orgs.py         # commercial vs community
+python3 classify_orgs.py         # pull org metadata + contributor employers
+python3 refine_classification.py # grade commercial confidence
 ```
 
 Outputs land in `data/`.
